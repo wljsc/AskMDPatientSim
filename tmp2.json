@@ -1,0 +1,152 @@
+{
+    "consultationId": 62,
+    "findings": [
+        {
+            "id": 78,
+            "keywords": [],
+            "mmp": null,
+            "note": null,
+            "present": true,
+            "state": "PRESENT",
+            "text": null,
+            "uncertain": false,
+            "valueObject": null
+        },
+        {
+            "id": 368,
+            "keywords": [],
+            "mmp": null,
+            "note": null,
+            "present": true,
+            "state": "PRESENT",
+            "text": null,
+            "uncertain": false,
+            "valueObject": {
+                "format": "DATE",
+                "formattedValue": {
+                    "day": 29,
+                    "hour": 0,
+                    "minute": 0,
+                    "month": 12,
+                    "second": 0,
+                    "type": "timestamp",
+                    "year": 1988
+                },
+                "plural": null,
+                "string": false,
+                "value": "12/29/1988",
+                "valueType": "DATE",
+                "valueTypeUnit": null
+            }
+        },
+        {
+            "id": "2",
+            "idForHumans": "Fnd-null-GenNo-16645-Cpd-62-RecNum-2",
+            "state": "PRESENT",
+            "valueObject": {
+                "defaultUnit": {
+                    "display": "miles",
+                    "id": 1
+                },
+                "format": "DOUBLE",
+                "type": "LENGTH",
+                "units": [
+                    {
+                        "display": "miles",
+                        "id": 1
+                    },
+                    {
+                        "display": "yards",
+                        "id": 2
+                    },
+                    {
+                        "display": "feet",
+                        "id": 3
+                    },
+                    {
+                        "display": "inches",
+                        "id": 4
+                    },
+                    {
+                        "display": "kilometers",
+                        "id": 5
+                    },
+                    {
+                        "display": "meters",
+                        "id": 6
+                    },
+                    {
+                        "display": "centimeters",
+                        "id": 7
+                    },
+                    {
+                        "display": "millimeters",
+                        "id": 8
+                    }
+                ],
+                "value": "71",
+                "valueType": "LENGTH",
+                "valueTypeUnits": {
+                    "display": "miles",
+                    "id": 1
+                }
+            }
+        },
+        {
+            "id": "4",
+            "idForHumans": "Fnd-null-GenNo-16647-Cpd-62-RecNum-4",
+            "state": "PRESENT",
+            "valueObject": {
+                "defaultUnit": {
+                    "display": "pounds",
+                    "id": 2
+                },
+                "format": "DOUBLE",
+                "type": "WEIGHT",
+                "units": [
+                    {
+                        "display": "tons",
+                        "id": 1
+                    },
+                    {
+                        "display": "pounds",
+                        "id": 2
+                    },
+                    {
+                        "display": "ounces",
+                        "id": 3
+                    },
+                    {
+                        "display": "drams",
+                        "id": 4
+                    },
+                    {
+                        "display": "grains",
+                        "id": 5
+                    },
+                    {
+                        "display": "kilograms",
+                        "id": 6
+                    },
+                    {
+                        "display": "grams",
+                        "id": 7
+                    },
+                    {
+                        "display": "milligrams",
+                        "id": 8
+                    }
+                ],
+                "value": "171",
+                "valueType": "WEIGHT",
+                "valueTypeUnits": {
+                    "display": "pounds",
+                    "id": 2
+                }
+            }
+        }
+    ],
+    "myNextQuestionId": 1,
+    "questionId": 25,
+    "questionIndexSeq": 2
+}

@@ -1,0 +1,5289 @@
+{
+  "CommentCitings": [
+    {
+      "CmtNo": 1,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 1,
+      "RecNo": 2,
+      "Title": "Definition of Stress"
+    },
+    {
+      "CmtNo": 35,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 3,
+      "RecNo": 3,
+      "Title": "Physical Activity and Stress"
+    },
+    {
+      "CmtNo": 2,
+      "DisplayWeight": 90,
+      "GuidanceOptionNo": 1,
+      "RecNo": 4,
+      "Title": "Causes of Stress"
+    },
+    {
+      "CmtNo": 4,
+      "DisplayWeight": 70,
+      "GuidanceOptionNo": 1,
+      "RecNo": 8,
+      "Title": "Consequences of Stress"
+    },
+    {
+      "CmtNo": 5,
+      "DisplayWeight": 60,
+      "GuidanceOptionNo": 1,
+      "RecNo": 9,
+      "Title": "Stress Management"
+    },
+    {
+      "CmtNo": 27,
+      "DisplayWeight": 140,
+      "GuidanceOptionNo": 3,
+      "RecNo": 11,
+      "Title": "Steps You Can Take"
+    },
+    {
+      "CmtNo": 37,
+      "DisplayWeight": 155,
+      "GuidanceOptionNo": 2,
+      "RecNo": 12
+    },
+    {
+      "CmtNo": 9,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 2,
+      "RecNo": 32,
+      "Title": "Stress and Diet"
+    },
+    {
+      "CmtNo": 28,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 4,
+      "RecNo": 33,
+      "Title": "Stress and Sleep"
+    },
+    {
+      "CmtNo": 10,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 2,
+      "RecNo": 42
+    },
+    {
+      "CmtNo": 11,
+      "DisplayWeight": 750,
+      "GuidanceOptionNo": 2,
+      "RecNo": 43,
+      "Title": "Other Benefits of Healthy Eating"
+    },
+    {
+      "CmtNo": 45,
+      "DisplayWeight": 160,
+      "GuidanceOptionNo": 2,
+      "RecNo": 46,
+      "Title": "What You Should Know"
+    },
+    {
+      "CmtNo": 16,
+      "DisplayWeight": 155,
+      "GuidanceOptionNo": 4,
+      "RecNo": 57
+    },
+    {
+      "CmtNo": 14,
+      "DisplayWeight": 45,
+      "GuidanceOptionNo": 7,
+      "RecNo": 60
+    },
+    {
+      "CmtNo": 15,
+      "DisplayWeight": 180,
+      "GuidanceOptionNo": 4,
+      "RecNo": 67,
+      "Title": "Sleep Basics"
+    },
+    {
+      "CmtNo": 102,
+      "DisplayWeight": 150,
+      "GuidanceOptionNo": 2,
+      "RecNo": 68
+    },
+    {
+      "CmtNo": 17,
+      "DisplayWeight": 160,
+      "GuidanceOptionNo": 4,
+      "RecNo": 72
+    },
+    {
+      "CmtNo": 18,
+      "DisplayWeight": 150,
+      "GuidanceOptionNo": 4,
+      "RecNo": 73
+    },
+    {
+      "CmtNo": 19,
+      "DisplayWeight": 140,
+      "GuidanceOptionNo": 4,
+      "RecNo": 74
+    },
+    {
+      "CmtNo": 21,
+      "DisplayWeight": 120,
+      "GuidanceOptionNo": 4,
+      "RecNo": 76
+    },
+    {
+      "CmtNo": 22,
+      "DisplayWeight": 110,
+      "GuidanceOptionNo": 4,
+      "RecNo": 77
+    },
+    {
+      "CmtNo": 23,
+      "DisplayWeight": 100,
+      "GuidanceOptionNo": 4,
+      "RecNo": 78
+    },
+    {
+      "CmtNo": 24,
+      "DisplayWeight": 90,
+      "GuidanceOptionNo": 4,
+      "RecNo": 79
+    },
+    {
+      "CmtNo": 25,
+      "DisplayWeight": 80,
+      "GuidanceOptionNo": 4,
+      "RecNo": 80
+    },
+    {
+      "CmtNo": 26,
+      "DisplayWeight": 70,
+      "GuidanceOptionNo": 4,
+      "RecNo": 83,
+      "Title": "Keep a Sleep Diary"
+    },
+    {
+      "CmtNo": 103,
+      "DisplayWeight": 110,
+      "GuidanceOptionNo": 2,
+      "RecNo": 87,
+      "Title": "Steps You Can Take"
+    },
+    {
+      "CmtNo": 107,
+      "DisplayWeight": 105,
+      "GuidanceOptionNo": 2,
+      "RecNo": 88
+    },
+    {
+      "CmtNo": 108,
+      "DisplayWeight": 100,
+      "GuidanceOptionNo": 2,
+      "RecNo": 89
+    },
+    {
+      "CmtNo": 109,
+      "DisplayWeight": 95,
+      "GuidanceOptionNo": 2,
+      "RecNo": 90
+    },
+    {
+      "CmtNo": 110,
+      "DisplayWeight": 93,
+      "GuidanceOptionNo": 2,
+      "RecNo": 91
+    },
+    {
+      "CmtNo": 111,
+      "DisplayWeight": 90,
+      "GuidanceOptionNo": 2,
+      "RecNo": 92
+    },
+    {
+      "CmtNo": 113,
+      "DisplayWeight": 85,
+      "GuidanceOptionNo": 2,
+      "RecNo": 93
+    },
+    {
+      "CmtNo": 114,
+      "DisplayWeight": 80,
+      "GuidanceOptionNo": 2,
+      "RecNo": 94
+    },
+    {
+      "CmtNo": 115,
+      "DisplayWeight": 75,
+      "GuidanceOptionNo": 2,
+      "RecNo": 95
+    },
+    {
+      "CmtNo": 32,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 5,
+      "RecNo": 96,
+      "Title": "Stress and Psychotherapy"
+    },
+    {
+      "CmtNo": 33,
+      "DisplayWeight": 150,
+      "GuidanceOptionNo": 5,
+      "RecNo": 97,
+      "Title": "Finding Mental Health Professionals"
+    },
+    {
+      "CmtNo": 8,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 16,
+      "RecNo": 110
+    },
+    {
+      "CmtNo": 98,
+      "DisplayWeight": 799,
+      "GuidanceOptionNo": 16,
+      "RecNo": 112
+    },
+    {
+      "CmtNo": 36,
+      "DisplayWeight": 100,
+      "GuidanceOptionNo": 5,
+      "RecNo": 121,
+      "Title": "Choosing a Therapist"
+    },
+    {
+      "CmtNo": 80,
+      "DisplayWeight": 40,
+      "GuidanceOptionNo": 1,
+      "RecNo": 127,
+      "Title": "Getting Professional Help"
+    },
+    {
+      "CmtNo": 44,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 6,
+      "RecNo": 136,
+      "Title": "Diaries and Journals"
+    },
+    {
+      "CmtNo": 46,
+      "DisplayWeight": 795,
+      "GuidanceOptionNo": 6,
+      "RecNo": 139
+    },
+    {
+      "CmtNo": 47,
+      "DisplayWeight": 794,
+      "GuidanceOptionNo": 6,
+      "RecNo": 140
+    },
+    {
+      "CmtNo": 48,
+      "DisplayWeight": 792,
+      "GuidanceOptionNo": 6,
+      "RecNo": 141
+    },
+    {
+      "CmtNo": 49,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 6,
+      "RecNo": 142
+    },
+    {
+      "CmtNo": 50,
+      "DisplayWeight": 780,
+      "GuidanceOptionNo": 6,
+      "RecNo": 149
+    },
+    {
+      "CmtNo": 53,
+      "DisplayWeight": 300,
+      "GuidanceOptionNo": 9,
+      "RecNo": 154,
+      "Title": "Job Stress Management Techniques"
+    },
+    {
+      "CmtNo": 51,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 9,
+      "RecNo": 155,
+      "Title": "Stress and Work"
+    },
+    {
+      "CmtNo": 52,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 9,
+      "RecNo": 156
+    },
+    {
+      "CmtNo": 55,
+      "DisplayWeight": 290,
+      "GuidanceOptionNo": 9,
+      "RecNo": 158
+    },
+    {
+      "CmtNo": 39,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 7,
+      "RecNo": 160,
+      "Title": "Stress and Relaxation Techniques"
+    },
+    {
+      "CmtNo": 3,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 4,
+      "RecNo": 187
+    },
+    {
+      "CmtNo": 58,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 10,
+      "RecNo": 188,
+      "Title": "Stress and Social Support"
+    },
+    {
+      "CmtNo": 57,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 8,
+      "RecNo": 193,
+      "Title": "Coping With Stress in Unhealthy Ways"
+    },
+    {
+      "CmtNo": 61,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 10,
+      "RecNo": 207
+    },
+    {
+      "CmtNo": 41,
+      "DisplayWeight": 90,
+      "GuidanceOptionNo": 7,
+      "RecNo": 210,
+      "Title": "Types of Relaxation Techniques"
+    },
+    {
+      "CmtNo": 42,
+      "DisplayWeight": 10,
+      "GuidanceOptionNo": 7,
+      "RecNo": 213,
+      "Title": "Other Benefits of Relaxation Techniques"
+    },
+    {
+      "CmtNo": 43,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 11,
+      "RecNo": 221,
+      "Title": "Stress and Yoga"
+    },
+    {
+      "CmtNo": 54,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 11,
+      "RecNo": 224,
+      "Title": "Additional Benefits of Yoga"
+    },
+    {
+      "CmtNo": 56,
+      "DisplayWeight": 80,
+      "GuidanceOptionNo": 11,
+      "RecNo": 226,
+      "Title": "Finding More Information "
+    },
+    {
+      "CmtNo": 62,
+      "DisplayWeight": 70,
+      "GuidanceOptionNo": 11,
+      "RecNo": 231,
+      "Title": "Cautions"
+    },
+    {
+      "CmtNo": 63,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 12,
+      "RecNo": 239
+    },
+    {
+      "CmtNo": 64,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 12,
+      "RecNo": 244
+    },
+    {
+      "CmtNo": 65,
+      "DisplayWeight": 80,
+      "GuidanceOptionNo": 12,
+      "RecNo": 248
+    },
+    {
+      "CmtNo": 67,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 13,
+      "RecNo": 260,
+      "Title": "Stress and Managing Time"
+    },
+    {
+      "CmtNo": 68,
+      "DisplayWeight": 200,
+      "GuidanceOptionNo": 13,
+      "RecNo": 263,
+      "Title": "Time Management Techniques"
+    },
+    {
+      "CmtNo": 69,
+      "DisplayWeight": 180,
+      "GuidanceOptionNo": 13,
+      "RecNo": 264
+    },
+    {
+      "CmtNo": 70,
+      "DisplayWeight": 170,
+      "GuidanceOptionNo": 13,
+      "RecNo": 267
+    },
+    {
+      "CmtNo": 71,
+      "DisplayWeight": 160,
+      "GuidanceOptionNo": 13,
+      "RecNo": 268
+    },
+    {
+      "CmtNo": 72,
+      "DisplayWeight": 150,
+      "GuidanceOptionNo": 13,
+      "RecNo": 269
+    },
+    {
+      "CmtNo": 73,
+      "DisplayWeight": 140,
+      "GuidanceOptionNo": 13,
+      "RecNo": 270
+    },
+    {
+      "CmtNo": 75,
+      "DisplayWeight": 120,
+      "GuidanceOptionNo": 13,
+      "RecNo": 272
+    },
+    {
+      "CmtNo": 76,
+      "DisplayWeight": 110,
+      "GuidanceOptionNo": 13,
+      "RecNo": 273
+    },
+    {
+      "CmtNo": 77,
+      "DisplayWeight": 100,
+      "GuidanceOptionNo": 13,
+      "RecNo": 274
+    },
+    {
+      "CmtNo": 12,
+      "DisplayWeight": 750,
+      "GuidanceOptionNo": 4,
+      "RecNo": 276
+    },
+    {
+      "CmtNo": 74,
+      "DisplayWeight": 190,
+      "GuidanceOptionNo": 5,
+      "RecNo": 280,
+      "Title": "Cognitive Behavioral Therapy"
+    },
+    {
+      "CmtNo": 78,
+      "DisplayWeight": 175,
+      "GuidanceOptionNo": 5,
+      "RecNo": 282
+    },
+    {
+      "CmtNo": 29,
+      "DisplayWeight": 130,
+      "GuidanceOptionNo": 3,
+      "RecNo": 284
+    },
+    {
+      "CmtNo": 59,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 8,
+      "RecNo": 287
+    },
+    {
+      "CmtNo": 82,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 14,
+      "RecNo": 292,
+      "Title": "Other Benefits of Meditation"
+    },
+    {
+      "CmtNo": 81,
+      "DisplayWeight": 780,
+      "GuidanceOptionNo": 14,
+      "RecNo": 297,
+      "Title": "Types of Meditation"
+    },
+    {
+      "CmtNo": 92,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 14,
+      "RecNo": 300,
+      "Title": "Stress and Meditation"
+    },
+    {
+      "CmtNo": 13,
+      "DisplayWeight": 175,
+      "GuidanceOptionNo": 13,
+      "RecNo": 308
+    },
+    {
+      "CmtNo": 85,
+      "DisplayWeight": 80,
+      "GuidanceOptionNo": 7,
+      "RecNo": 310
+    },
+    {
+      "CmtNo": 86,
+      "DisplayWeight": 70,
+      "GuidanceOptionNo": 7,
+      "RecNo": 311
+    },
+    {
+      "CmtNo": 87,
+      "DisplayWeight": 60,
+      "GuidanceOptionNo": 7,
+      "RecNo": 312
+    },
+    {
+      "CmtNo": 88,
+      "DisplayWeight": 50,
+      "GuidanceOptionNo": 7,
+      "RecNo": 313
+    },
+    {
+      "CmtNo": 89,
+      "DisplayWeight": 40,
+      "GuidanceOptionNo": 7,
+      "RecNo": 314
+    },
+    {
+      "CmtNo": 90,
+      "DisplayWeight": 30,
+      "GuidanceOptionNo": 7,
+      "RecNo": 315
+    },
+    {
+      "CmtNo": 91,
+      "DisplayWeight": 20,
+      "GuidanceOptionNo": 7,
+      "RecNo": 316
+    },
+    {
+      "CmtNo": 93,
+      "DisplayWeight": 145,
+      "GuidanceOptionNo": 14,
+      "RecNo": 319
+    },
+    {
+      "CmtNo": 94,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 1,
+      "RecNo": 328
+    },
+    {
+      "CmtNo": 40,
+      "DisplayWeight": 55,
+      "GuidanceOptionNo": 1,
+      "RecNo": 332
+    },
+    {
+      "CmtNo": 95,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 15,
+      "RecNo": 342,
+      "Title": "Stress and Religion or Spirituality"
+    },
+    {
+      "CmtNo": 20,
+      "DisplayWeight": 780,
+      "GuidanceOptionNo": 10,
+      "RecNo": 349
+    },
+    {
+      "CmtNo": 97,
+      "DisplayWeight": 770,
+      "GuidanceOptionNo": 15,
+      "RecNo": 350,
+      "Title": "Other Benefits of Religion or Spirituality"
+    },
+    {
+      "CmtNo": 99,
+      "DisplayWeight": 800,
+      "GuidanceOptionNo": 15,
+      "RecNo": 356,
+      "Title": "Definitions"
+    },
+    {
+      "CmtNo": 34,
+      "DisplayWeight": 100,
+      "GuidanceOptionNo": 3,
+      "RecNo": 363
+    },
+    {
+      "CmtNo": 38,
+      "DisplayWeight": 75,
+      "GuidanceOptionNo": 1,
+      "RecNo": 374
+    },
+    {
+      "CmtNo": 106,
+      "DisplayWeight": 90,
+      "GuidanceOptionNo": 3,
+      "RecNo": 381
+    },
+    {
+      "CmtNo": 100,
+      "DisplayWeight": 790,
+      "GuidanceOptionNo": 3,
+      "RecNo": 395,
+      "Title": "Physical Activity and Health"
+    },
+    {
+      "CmtNo": 104,
+      "DisplayWeight": 68,
+      "GuidanceOptionNo": 1,
+      "RecNo": 397
+    },
+    {
+      "CmtNo": 7,
+      "DisplayWeight": 70,
+      "GuidanceOptionNo": 3,
+      "RecNo": 398
+    },
+    {
+      "CmtNo": 31,
+      "DisplayWeight": 110,
+      "GuidanceOptionNo": 3,
+      "RecNo": 400
+    },
+    {
+      "CmtNo": 6,
+      "DisplayWeight": 48,
+      "GuidanceOptionNo": 7,
+      "RecNo": 420
+    },
+    {
+      "CmtNo": 112,
+      "DisplayWeight": 200,
+      "GuidanceOptionNo": 3,
+      "RecNo": 425,
+      "Title": "What You Should Know"
+    },
+    {
+      "CmtNo": 84,
+      "DisplayWeight": 60,
+      "GuidanceOptionNo": 5,
+      "RecNo": 434
+    },
+    {
+      "CmtNo": 96,
+      "DisplayWeight": 100,
+      "GuidanceOptionNo": 14,
+      "RecNo": 440
+    },
+    {
+      "CmtNo": 123,
+      "DisplayWeight": 65,
+      "GuidanceOptionNo": 3,
+      "RecNo": 444
+    },
+    {
+      "CmtNo": 60,
+      "DisplayWeight": 780,
+      "GuidanceOptionNo": 3,
+      "RecNo": 445
+    },
+    {
+      "CmtNo": 105,
+      "DisplayWeight": 80,
+      "GuidanceOptionNo": 3,
+      "RecNo": 446
+    },
+    {
+      "CmtNo": 30,
+      "DisplayWeight": 120,
+      "GuidanceOptionNo": 3,
+      "RecNo": 455
+    }
+  ],
+  "Comments": [
+    {
+      "Name": "Stress refers to both physical and emotional responses to life events. Any stressful event is called a stressor, and it can be either positive or negative. The physical response to a stressor can include increases in blood pressure, heart rate, and breathing. Your metabolism, blood flow, and hormone levels can also be affected. These responses evolved to help the body react quickly and effectively in dangerous situations.",
+      "RecNo": 1
+    },
+    {
+      "Name": "The American Psychological Association reports that stress levels remain relatively steady from year to year. The most significant causes of stress in the US are mass shootings and health care costs. The election and economy are also important concerns. The most common personal sources of stress are work and money.",
+      "RecNo": 2
+    },
+    {
+      "Name": "During deep sleep, your brain releases chemicals that tell your body to stop producing stress hormones. If you don't sleep enough at night, your body releases more stress hormones. The next day you may feel more stressed, and the following night you will find it harder to fall asleep again.",
+      "RecNo": 3
+    },
+    {
+      "Name": "Stress can make your existing health problems worse. Living with long-term stress can lead to high levels of the stress hormone cortisol, which can raise your risk for diabetes, obesity, high blood pressure, and heart disease. Women may have irregular periods and decreased sex drive. Stress may also affect your immune system, making you more prone to infections and immune disorders.",
+      "RecNo": 4
+    },
+    {
+      "Name": "Stress management is a way to prevent or reduce the negative effects of stress by practicing one or more coping techniques. Identifying the source of stress can be an important first step. Coping strategies can be lifestyle changes, such as exercising or giving up bad habits. You can also learn to change your response to stressful situations. One way is to think about stressful events differently by identifying negative thoughts or patterns.",
+      "RecNo": 5
+    },
+    {
+      "Name": "--- Mindfulness consists of formal and informal meditation exercises. Formal exercises might include paying attention to your body, lying on the ground, or walking slowly with a sense of awareness of your surroundings. Informal exercises may be paying full attention to what you are doing or experiencing at a certain moment. It can be helpful in reducing stress.",
+      "RecNo": 6
+    },
+    {
+      "Name": "--- Look for health and fitness classes in your community.",
+      "RecNo": 7
+    },
+    {
+      "Name": "The results in this consultation are primarily designed for adults. It is important to know that management for most health conditions is different for children than it is for adults. While some basic treatment steps may be similar, a child will often need different drugs, different dosages, or other child-specific treatment strategies. Some medical and self-care treatments should never be used to treat children.",
+      "RecNo": 8
+    },
+    {
+      "Name": "Research confirms that people often eat more when under stress. They are more likely to eat unhealthy foods, such as those high in fat, sugar, and salt. These food cravings may be due to high levels of the hormone cortisol that occur during stressful events.",
+      "RecNo": 9
+    },
+    {
+      "Name": "Replacing unhealthy food with nutritious meals and snacks will help you to feel your best, and that can help you cope with the stress in your life. Limit alcohol and caffeine. The initial boost you feel from caffeine wears off quickly. Stress can trigger a craving for alcohol. But regular drinking can cause your body to release more cortisol, the stress hormone.",
+      "RecNo": 10
+    },
+    {
+      "Name": "Healthy eating patterns have been linked with a lower risk of many chronic diseases, including heart disease, diabetes, high blood pressure, high cholesterol, and cancers of the colon, breast, and lungs.",
+      "RecNo": 11
+    },
+    {
+      "Name": "Interestingly, some clinical experts say that a healthy lifestyle and friendly relationships with coworkers can help improve sleep. This may be especially important in certain jobs and work settings.",
+      "RecNo": 12
+    },
+    {
+      "Name": "--- Keep an activity log for a week and review it.",
+      "RecNo": 13
+    },
+    {
+      "Name": "--- Music therapy involves working with a trained therapist to relax through music. Musical talent is not needed. Some types of music therapy involve passive listening, while other types focus on active music making, such as drumming or singing.",
+      "RecNo": 14
+    },
+    {
+      "Name": "Not everyone needs the same amount of sleep, but it is recommended that adults get 7 to 9 hours a night. Try the following ways to develop healthy sleep habits and change behaviors that could add to your sleep problem.",
+      "RecNo": 15
+    },
+    {
+      "Name": "--- Avoid working, watching TV, or using the computer in bed. Use the bed for sleep and sex only.",
+      "RecNo": 16
+    },
+    {
+      "Name": "--- Wind down 30 minutes before bedtime. Create a routine that helps you to relax, such as listening to music or taking a warm bath.",
+      "RecNo": 17
+    },
+    {
+      "Name": "--- Eat a light bedtime snack high in tryptophan, such as a banana or a glass of milk.",
+      "RecNo": 18
+    },
+    {
+      "Name": "--- Avoid caffeine, nicotine, and alcohol close to bedtime. Caffeine can make it hard to fall asleep. Alcohol before bed can lead to restless sleep and frequent awakenings.",
+      "RecNo": 19
+    },
+    {
+      "Name": "Equally important, technology offers an easy, convenient, and accessible way to connect with others when time is limited. Clinical experts agree that technology such as social media, online gatherings, and messenger apps can help people lower feelings of stress, isolation, and anxiety. Apps are the most widely used way to support health and well-being, but there are lots of tools to help people connect.",
+      "RecNo": 20
+    },
+    {
+      "Name": "--- If you do not fall asleep within a reasonable amount of time after going to bed, do not lie in bed awake. Get up and engage in a relaxing activity until you feel tired again.",
+      "RecNo": 21
+    },
+    {
+      "Name": "--- Avoid napping during the day, if possible.",
+      "RecNo": 22
+    },
+    {
+      "Name": "--- Go to bed and get up at about the same time every day, including weekends. This helps synchronize the body's circadian clock.",
+      "RecNo": 23
+    },
+    {
+      "Name": "--- Exercise for 20 to 30 minutes at least 3 days a week. It is best to finish exercise at least 3 hours before bedtime.",
+      "RecNo": 24
+    },
+    {
+      "Name": "--- Be sure that your bedroom isn't too warm, too bright, or near loud noise.",
+      "RecNo": 25
+    },
+    {
+      "Name": "Keeping a sleep diary for several weeks can help you understand your own sleep pattern. It may help you see what strategies work, as well as behaviors that keep you from sleeping. Record the following information: the time you went to bed, how long it took to fall asleep, how many times you woke up, and the time you woke up for the day. Also include information about pain, exercise, daytime naps, medications, and caffeine and alcohol intake.",
+      "RecNo": 26
+    },
+    {
+      "Name": "When you begin an exercise program, the following tips may greatly improve your odds of success.",
+      "RecNo": 27
+    },
+    {
+      "Name": "Ongoing stress can contribute to long-term sleep problems. Stress can cause insomnia, and insomnia can lead to more stress. Lack of sleep raises your risk for colds, other infections, high blood pressure, heart disease, obesity, and diabetes. It can also affect your concentration, memory, mood, judgment, and reaction time, and lead to unsafe driving.",
+      "RecNo": 28
+    },
+    {
+      "Name": "--- Focus on the exercise benefits that you value (weight loss, improved sleep, improved appearance, social engagement).",
+      "RecNo": 29
+    },
+    {
+      "Name": "--- Add physical activities to your daily routine.",
+      "RecNo": 30
+    },
+    {
+      "Name": "--- Strengthen your muscles with weight training, resistance bands, push-ups, pull-ups, or sit-ups.",
+      "RecNo": 31
+    },
+    {
+      "Name": "A therapist can teach you strategies for dealing with stress in a positive way. People who have someone to talk to about their problems have lower stress levels. There are many different types of psychotherapy. A therapist can tailor the treatment to your situation and needs.",
+      "RecNo": 32
+    },
+    {
+      "Name": "Referrals to mental health professionals in your area can be made by your primary care provider, social service agencies, employee assistance programs, the psychiatry department of your local hospital, or a community mental health agency. In addition, you can check with your insurance policy for a list of providers. You can also search the internet for online sources such as psychologytoday.com and associations such as the American Psychological or Psychiatric Association.",
+      "RecNo": 33
+    },
+    {
+      "Name": "--- Vary your routine. Don't let boredom slow your progress.",
+      "RecNo": 34
+    },
+    {
+      "Name": "Studies show that physical activity helps reduce stress and can also improve your ability to handle stressful situations. Exercise can relax tense muscles and reduce feelings of anxiety.",
+      "RecNo": 35
+    },
+    {
+      "Name": "It is always wise to be sure a therapist is a good match for you. It is essential that you find well-trained individuals with the appropriate education, training, and license. Consider what characteristics of a therapist are most important to you, such as gender, age, religious background, or number of years in practice. Find out whether they have experience working with people who have problems similar to yours.",
+      "RecNo": 36
+    },
+    {
+      "Name": "The Dietary Guidelines also recommend limiting calories from added sugar to less than 10% of your daily calories, limiting calories from saturated fats to less than 10% of your daily calories, and keeping your sodium intake below 2,300 mg per day.",
+      "RecNo": 37
+    },
+    {
+      "Name": "Americans also report that discrimination is an important issue. Other sources of stress can be short-term events, such as getting lost while driving, or long-term, such as dealing with a serious illness.",
+      "RecNo": 38
+    },
+    {
+      "Name": "Relaxation techniques can help reduce your physical and emotional responses to stress. This can help release body tension and lead to a more positive state of mind. Many people report that relaxation techniques such as yoga, meditation, and deep breathing can help manage stress. Try different techniques to see what works best for you.",
+      "RecNo": 39
+    },
+    {
+      "Name": "Relaxation techniques can ease stress. Reaching out to friends and family can also be helpful. Lastly, writing about what causes your stress may help you handle it better.",
+      "RecNo": 40
+    },
+    {
+      "Name": "Some people relax simply by sitting quietly, listening to music, getting a massage, or reading a book. Some find it helpful to engage in formal relaxation methods, which can be learned through community workshops or with home study. Others prefer to be trained by a professional. Formal relaxation methods that may require training include the following:",
+      "RecNo": 41
+    },
+    {
+      "Name": "Relaxation methods have other benefits besides stress reduction. Some are used to treat sleep problems, anxiety disorders, chronic pain, and headaches",
+      "RecNo": 42
+    },
+    {
+      "Name": "Yoga is an ancient discipline involving a series of static, or still, poses and movements. It combines controlled breathing, meditation, and physical exercise. By encouraging mental and physical relaxation, yoga helps reduce your emotional and physical responses to stress and can lead to feelings of overall well-being.",
+      "RecNo": 43
+    },
+    {
+      "Name": "Keeping a stress journal or diary on a regular basis can help you understand what is causing your stress, how you usually react to stress, and how well your reactions have worked. This can help you find the coping skills that work best for you. Write down the following things in your stress diary.",
+      "RecNo": 44
+    },
+    {
+      "Name": "A healthy eating pattern is one that provides the right amount of calories and nutrients for you to maintain a healthy body weight and lower your risk of chronic diseases. Healthy eating should be a lifelong habit. The 2015-2020 Dietary Guidelines for Americans recommend eating the right amounts of a variety of nutrient-dense foods, such as vegetables, fruits, and whole grains.",
+      "RecNo": 45
+    },
+    {
+      "Name": "--- Any event or situation that you felt was stressful.",
+      "RecNo": 46
+    },
+    {
+      "Name": "--- The intensity of your stress. For example, you could rate the stress on a scale of 0 to 100, where 0 means not stressful at all and 100 means the most stressful event you have ever experienced.",
+      "RecNo": 47
+    },
+    {
+      "Name": "--- Your reaction to the stress. Include what you thought, how you felt, and what you did in response to each stressful event. Be sure to write down any coping behaviors you used, whether you tried to avoid the stress, and your symptoms and emotions, such as sweating or anxiety.",
+      "RecNo": 48
+    },
+    {
+      "Name": "--- The outcome or consequences that resulted from your reaction to each stressful incident.",
+      "RecNo": 49
+    },
+    {
+      "Name": "A stress diary allows you to keep track of stressors and your responses. Including specific details and deep feelings can also be helpful. Keeping a journal can help you think through stressful events, and this may help reduce their impact. Your journal can be entirely private or something to share with a trusted friend or partner.",
+      "RecNo": 50
+    },
+    {
+      "Name": "Most employees believe there is more job stress now than in past generations. Stress can come from a combination of high work demands with little control, for example, having no say in decisions. Other things that add to job stress include lack of opportunity for advancement, lack of job security, not enough staff or resources, too much responsibility, and pressure to work overtime. People also feel stressed when work practices or technologies change too often.",
+      "RecNo": 51
+    },
+    {
+      "Name": "Some work-related stress is normal. But ongoing job stress raises your risk for physical and emotional problems. These include heart disease, muscle and joint problems, sleep disturbances, headaches, stomachaches, depression, anxiety, and burnout.",
+      "RecNo": 52
+    },
+    {
+      "Name": "Make the most of your workday breaks. Keep a journal of which situations create the most stress and your responses to help identify patterns. Taking a short walk or sitting quietly with your eyes closed can lower your stress level. Set reasonable goals and don't expect perfection. Talk with your supervisor about your responsibilities and any changes that may help reduce stress. Contact your employee assistance program for help in coping with difficult work situations.",
+      "RecNo": 53
+    },
+    {
+      "Name": "Yoga can help improve strength, flexibility, and balance. Regular practice can help lower blood pressure, improve heart health and sleep, and ease symptoms of anxiety and depression. Yoga practice may help lower the levels of the stress hormone cortisol.",
+      "RecNo": 54
+    },
+    {
+      "Name": "Participate in a worksite stress management program if one is available. Some programs focus on changing workplace stressors, while others concentrate on teaching problem-solving skills and introducing stress-reducing tools. Many programs offer a combination of techniques.",
+      "RecNo": 55
+    },
+    {
+      "Name": "You can find more information about yoga online, in books and magazines, and at local fitness and community centers. These will provide detailed information on the different styles of yoga, some of which concentrate on physical exercise, while others are more focused on meditation. Some of these sources can also help you locate classes in your area.",
+      "RecNo": 56
+    },
+    {
+      "Name": "Many people turn to unhealthy behaviors as a way of coping with stress. These can include smoking, drinking, or drug use. You may think these behaviors help your stress, but they really stress your body more, and raise your risk for illness or chronic diseases. For example, smoking narrows your blood vessels, which causes your heart to work harder and raises your risk of a heart attack or stroke. Try to replace unhealthy behaviors with healthy coping strategies.",
+      "RecNo": 57
+    },
+    {
+      "Name": "Social networks can provide emotional and other support in times of crisis and can help ease the burden of stressful life events. A social network can provide opportunities for talking through a problem or getting advice. You may see problems in a new way and find different solutions. People who have satisfying social relationships have lower rates of disease and mental illness. Knowing support is there if you need it can mean better health and a more positive outlook.",
+      "RecNo": 58
+    },
+    {
+      "Name": "Your doctor or therapist can help you find more positive ways to deal with your stress.",
+      "RecNo": 59
+    },
+    {
+      "Name": "Exercise doesn't have to take place in a gym. It can be as easy as walking the dog, walking or jogging during your lunch hour, biking to work, parking farther away from a destination, playing a game of tag with your kids, or doing yard work. Other aerobic activities include dancing, swimming, and hiking. Any activity that you perform for a sustained period and that makes your heart beat faster is likely to be aerobic.",
+      "RecNo": 60
+    },
+    {
+      "Name": "Ways to expand or strengthen your social ties include attending community or religious functions, providing support and assistance to others, developing a hobby, or volunteering. Social support can come from many sources, including family and friends, coworkers, therapists, the clergy, or even pets. At the same time, recognize negative social influences and try to keep them from interfering with your progress toward health and well-being.",
+      "RecNo": 61
+    },
+    {
+      "Name": "Proper training from a skilled teacher with appropriate credentials is important for a safe practice. Always talk to your doctor before starting a yoga program. While negative effects of yoga are minimal, some forms of yoga or certain poses may not be appropriate during pregnancy or for people with certain health problems.",
+      "RecNo": 62
+    },
+    {
+      "Name": "Tai chi is an ancient Chinese practice that combines postures and gentle movements with meditation and deep breathing. It can be practiced while walking, standing, or sitting. Tai chi leads to a physical and emotional response that encourages relaxation and an overall feeling of well-being.",
+      "RecNo": 63
+    },
+    {
+      "Name": "Tai chi can help improve balance, strength, and flexibility, and can reduce your risk of falling. Some studies show it may help with the pain of arthritis and fibromyalgia. It can be an exercise option for people who have had a heart attack. Tai chi may help improve levels of stress and anxiety.",
+      "RecNo": 64
+    },
+    {
+      "Name": "Tai chi can be practiced anywhere, alone or in a group, and requires no special equipment. Tai chi instructors do not have to be licensed, but some training programs award certifications. While there are many different forms, each style follows the same basic principle of simple, slow, coordinated movements combined with deep breathing and focused mental concentration. Tai chi is a safe practice and unlikely to result in serious injury.",
+      "RecNo": 65
+    },
+    {
+      "Name": "If you feel overwhelmed by everyday responsibilities, time management skills can help you regain a sense of balance and control over your life. Managing your time does not mean giving up activities you enjoy. Taking just a few minutes each day for yourself can help you feel less stressed.",
+      "RecNo": 67
+    },
+    {
+      "Name": "Review your schedule and daily responsibilities. Check the amount of time you spend on work and meeting basic needs. Then, check the time you spend on intellectual, social, and recreational activities. Make lists of the things you must do, the things you should do, and the things that are most important to you. Spend your time on what you need to do and what you want to do. Reduce the amount of time you spend on things that are not important.",
+      "RecNo": 68
+    },
+    {
+      "Name": "The following strategies may help you manage your time better in both your personal and your professional life.",
+      "RecNo": 69
+    },
+    {
+      "Name": "--- Break down large projects into smaller, more manageable tasks.",
+      "RecNo": 70
+    },
+    {
+      "Name": "--- Delegate responsibilities to others.",
+      "RecNo": 71
+    },
+    {
+      "Name": "--- Organize your home and office so you can easily find things you need.",
+      "RecNo": 72
+    },
+    {
+      "Name": "--- Plan ahead as much as possible.",
+      "RecNo": 73
+    },
+    {
+      "Name": "Cognitive behavioral therapy is especially helpful for managing stress. It is based on the idea that stress and coping are influenced by how a person views and interprets stressful events, rather than the actual events themselves.",
+      "RecNo": 74
+    },
+    {
+      "Name": "--- Set goals and limit procrastination.",
+      "RecNo": 75
+    },
+    {
+      "Name": "--- Establish a regular routine and stay with it.",
+      "RecNo": 76
+    },
+    {
+      "Name": "--- Know your limits and stick to them. Do not overextend yourself if you feel you have neither the time nor the energy for any added responsibilities.",
+      "RecNo": 77
+    },
+    {
+      "Name": "The goal of cognitive behavioral therapy is to become more aware of negative thoughts that can make stress worse. A psychotherapist can teach you how to change the way you view potential stressors and recognize irrational or unrealistic beliefs that interfere with your ability to cope. For example, people under stress often give too much importance to minor events. A therapist can help you evaluate life events more realistically.",
+      "RecNo": 78
+    },
+    {
+      "Name": "If you feel overwhelmed by stress and think you can no longer cope with it, get help as soon as possible. Contact your doctor, hospital, or local mental health service agency for a referral to a mental health professional.",
+      "RecNo": 80
+    },
+    {
+      "Name": "Mindfulness and transcendental meditation are the two traditional forms of meditative practice. Transcendental meditation trains you to repeat a word or phrase (a mantra) in order to focus and prevent distracting thoughts. Mindfulness meditation promotes an increased awareness and acceptance of living in the present moment. You are taught to observe your thoughts and emotions as they arise, and then let them pass without judgment.",
+      "RecNo": 81
+    },
+    {
+      "Name": "The stillness of mind and deep relaxation achieved during meditation have been shown to help many other health problems. Meditation practice can help lower blood pressure and reduce the risk of heart disease. It is also helpful for chronic pain, sleep problems, depression, anxiety, and irritable bowel disease.",
+      "RecNo": 82
+    },
+    {
+      "Name": "If you meet with a therapist and are not comfortable, try another. Good rapport is an important part of successful therapy.",
+      "RecNo": 84
+    },
+    {
+      "Name": "--- Biofeedback is a therapy technique that uses electronic devices to provide information about your physical responses to stress. You can learn to control some of these responses, such as your breathing, heart rate, and blood pressure.",
+      "RecNo": 85
+    },
+    {
+      "Name": "--- Deep breathing exercises help quiet the mind through slow, deep inhalations and exhalations. Inhale slowly through your nose, extending your abdomen as you inhale. Pause for a few seconds, then slowly exhale. Repeat this breathing until you feel deeply relaxed. You can practice this several times a day.",
+      "RecNo": 86
+    },
+    {
+      "Name": "--- Guided imagery combines various relaxation techniques with visualization of calming and peaceful images. Some people listen to recordings to help them focus.",
+      "RecNo": 87
+    },
+    {
+      "Name": "--- Meditation helps people to reach a level of deep relaxation in which they are not distracted by the usual stream of thought. It can bring about both mental and physical relaxation. Meditation can be performed for short periods of time once or twice a day.",
+      "RecNo": 88
+    },
+    {
+      "Name": "--- Progressive muscle relaxation involves tensing and relaxing major muscle groups. It is sometimes used with deep breathing exercises.",
+      "RecNo": 89
+    },
+    {
+      "Name": "--- Tai chi is an ancient Chinese practice that combines simple, slow, coordinated movements with deep breathing and focused mental concentration. It can be practiced alone or in a group and requires no special equipment.",
+      "RecNo": 90
+    },
+    {
+      "Name": "--- Yoga involves a series of static poses and movements that combine controlled breathing, meditation, and physical exercise. There is no standard style of practice. Some types of yoga involve physical exercise, while others are more focused on meditation.",
+      "RecNo": 91
+    },
+    {
+      "Name": "Meditation helps with both mental and physical relaxation, which can lead to emotional well-being and an improved ability to cope with stress. Meditation is a relaxation technique that involves sitting quietly, often with your eyes closed, and focusing your attention on your breathing or on a chosen word or phrase.",
+      "RecNo": 92
+    },
+    {
+      "Name": "While meditation is usually practiced every day for short periods of time, you may also benefit from less frequent sessions. Look for local classes on meditation in your community. Information can also be found in books or on the internet or mobile apps.",
+      "RecNo": 93
+    },
+    {
+      "Name": "People interpret situations differently. What is stressful to one person may not be to another. Your reaction to a stressful event depends on your coping skills, as well as the type of event and level of seriousness.",
+      "RecNo": 94
+    },
+    {
+      "Name": "Religious or spiritual beliefs and practices can provide ways to understand and cope with stressful situations. These practices may help restore a sense of calm when stress is overwhelming.",
+      "RecNo": 95
+    },
+    {
+      "Name": "For example, Sharecare Windows (available on your \"Sharecare\" mobile phone app, and other devices) has relaxation and wellness videos, helping viewers to find calmness and peace in their everyday life. Sharecare Windows' video library includes meditation background video sounds. Clinical studies have shown Sharecare Windows' videos to be effective in reducing noise levels, encouraging sleep, and reducing stress.",
+      "RecNo": 96
+    },
+    {
+      "Name": "Research shows an association between spirituality and higher levels of social support and self-esteem, along with lower levels of anxiety, depression, and substance abuse. Your religious or spiritual beliefs may help you feel more connected to others and give you a sense of hope, meaning, or purpose in life.",
+      "RecNo": 97
+    },
+    {
+      "Name": "Talk to your pediatrician or another qualified health care provider about which management options your child should try.",
+      "RecNo": 98
+    },
+    {
+      "Name": "Religion is an organizational system that involves beliefs, practices, or ceremonial acts related to a higher power. Spirituality is a personal system of beliefs for meaning and purpose in life, which may or may not be related to a religion.",
+      "RecNo": 99
+    },
+    {
+      "Name": "Physical activity is one of the most important ingredients of good health. Besides improving overall fitness, strength, and flexibility, regular exercise reduces the risks for many medical problems, such as high blood pressure, diabetes, heart disease, stroke, and depression. It also helps to reduce cholesterol and stress and maintain weight. As we age, physical fitness makes it easier to perform everyday tasks.",
+      "RecNo": 100
+    },
+    {
+      "Name": "Along with making healthy food choices, stay physically active. Together, these habits will help you lose weight (if you are overweight) or help you maintain a healthy weight.",
+      "RecNo": 102
+    },
+    {
+      "Name": "Here are some steps you can take to eat healthier:",
+      "RecNo": 103
+    },
+    {
+      "Name": "Signs of stress include headaches, sleep problems, trouble concentrating, a short temper, overeating, not eating enough, lack of energy, or feeling anxious or out of control. Many people try to cope with stress in unhealthy ways, such as smoking or using alcohol or drugs.",
+      "RecNo": 104
+    },
+    {
+      "Name": "--- Wear proper clothing, shoes, and protective gear. Comfort and safety are important.",
+      "RecNo": 105
+    },
+    {
+      "Name": "--- Slowly increase the amount of time you exercise before you increase the intensity.",
+      "RecNo": 106
+    },
+    {
+      "Name": "--- Make half the foods you eat fruits and vegetables. They are naturally low in calories, fat, and added sugars.",
+      "RecNo": 107
+    },
+    {
+      "Name": "--- Be sure half the grains you eat are whole grains. Look for whole grains listed first or second on the ingredients list.",
+      "RecNo": 108
+    },
+    {
+      "Name": "--- Get your protein from a variety of foods, including seafood, beans, peas, nuts, seeds, eggs, and lean meats and poultry.",
+      "RecNo": 109
+    },
+    {
+      "Name": "--- Choose low-fat or fat-free when you buy milk and other dairy products.",
+      "RecNo": 110
+    },
+    {
+      "Name": "--- Look for foods lower in sodium.",
+      "RecNo": 111
+    },
+    {
+      "Name": "Most people with disabilities or long-term medical conditions, such as heart disease, obesity, or diabetes, can start a moderate exercise program. But it is a good idea to talk to your doctor first. Your doctor can help you choose activities that are right for you.",
+      "RecNo": 112
+    },
+    {
+      "Name": "--- Use vegetable oils instead of butter and other solid fats.",
+      "RecNo": 113
+    },
+    {
+      "Name": "--- Drink water instead of sugary drinks.",
+      "RecNo": 114
+    },
+    {
+      "Name": "--- Choose healthy snacks, such as fresh or dried fruit, raw vegetables, rice cakes, low-fat popcorn, fat-free yogurt, sunflower seeds, and soy nuts.",
+      "RecNo": 115
+    },
+    {
+      "Name": "--- Invite a friend to join you. Working out with a friend can keep you on track and make exercise more enjoyable.",
+      "RecNo": 123
+    }
+  ],
+  "Configuration": {
+    "Categories": {
+      "Management": true
+    },
+    "DateCreated": "2009-10-20T00:00:00-04:00",
+    "DatePacked": "2022-01-27T18:07:52.443-05:00",
+    "DateUpdated": "2021-07-19T12:00:47.462-04:00",
+    "FullTopic": "Stress Management",
+    "Keywords": [
+      "stress"
+    ],
+    "Number": 155,
+    "ShortTopic": "Stress Mgt",
+    "Type": "Mgt"
+  },
+  "CplNo": 155,
+  "DisplayWeightTitleSets": [
+    {
+      "DisplayWeightTitles": [
+        {
+          "DisplayWeightMax": 800,
+          "DisplayWeightMin": 790,
+          "EntNo": 64048,
+          "Title": "Basics"
+        },
+        {
+          "DisplayWeightMax": 760,
+          "DisplayWeightMin": 720,
+          "EntNo": 64047,
+          "Title": "Key Things to Consider"
+        },
+        {
+          "DisplayWeightMax": 700,
+          "DisplayWeightMin": 600,
+          "EntNo": 64050,
+          "Title": "Lifestyle Changes"
+        },
+        {
+          "DisplayWeightMax": 500,
+          "DisplayWeightMin": 440,
+          "EntNo": 17213,
+          "Title": "Professional Services"
+        },
+        {
+          "DisplayWeightMax": 430,
+          "DisplayWeightMin": 410,
+          "EntNo": 64049,
+          "Title": "Stress Reduction Therapies"
+        },
+        {
+          "DisplayWeightMax": 350,
+          "DisplayWeightMin": 340,
+          "EntNo": 64052,
+          "Title": "Not Recommended as Therapy"
+        }
+      ],
+      "Name": "Guidance Options, index only"
+    },
+    {
+      "DisplayWeightTitles": [
+        {
+          "DisplayWeightMax": 990,
+          "DisplayWeightMin": 985,
+          "EntNo": 65810,
+          "Title": "Personal Information"
+        },
+        {
+          "DisplayWeightMax": 980,
+          "DisplayWeightMin": 945,
+          "EntNo": 44800,
+          "Title": "Your Stress Problem"
+        },
+        {
+          "DisplayWeightMax": 940,
+          "DisplayWeightMin": 930,
+          "EntNo": 44801,
+          "Title": "Stress: Objective"
+        },
+        {
+          "DisplayWeightMax": 900,
+          "DisplayWeightMin": 891,
+          "EntNo": 45331,
+          "Title": "Symptoms: General"
+        },
+        {
+          "DisplayWeightMax": 890,
+          "DisplayWeightMin": 881,
+          "EntNo": 45332,
+          "Title": "Symptoms: Skin, Hair, Nails"
+        },
+        {
+          "DisplayWeightMax": 880,
+          "DisplayWeightMin": 871,
+          "EntNo": 45333,
+          "Title": "Symptoms: Head, Face, Neck"
+        },
+        {
+          "DisplayWeightMax": 870,
+          "DisplayWeightMin": 856,
+          "EntNo": 45334,
+          "Title": "Symptoms: Eyes, Ears, Mouth, Nose, Throat"
+        },
+        {
+          "DisplayWeightMax": 855,
+          "DisplayWeightMin": 851,
+          "EntNo": 45335,
+          "Title": "Symptoms: Chest and Breathing"
+        },
+        {
+          "DisplayWeightMax": 850,
+          "DisplayWeightMin": 846,
+          "EntNo": 45336,
+          "Title": "Symptoms: Heart and Circulation"
+        },
+        {
+          "DisplayWeightMax": 845,
+          "DisplayWeightMin": 836,
+          "EntNo": 45337,
+          "Title": "Symptoms: Abdomen and Digestive System"
+        },
+        {
+          "DisplayWeightMax": 835,
+          "DisplayWeightMin": 821,
+          "EntNo": 45338,
+          "Title": "Symptoms: Reproductive System, Urinary System"
+        },
+        {
+          "DisplayWeightMax": 820,
+          "DisplayWeightMin": 811,
+          "EntNo": 45339,
+          "Title": "Symptoms: Joints, Muscles, Bones"
+        },
+        {
+          "DisplayWeightMax": 810,
+          "DisplayWeightMin": 801,
+          "EntNo": 45340,
+          "Title": "Symptoms: Nervous System"
+        },
+        {
+          "DisplayWeightMax": 800,
+          "DisplayWeightMin": 791,
+          "EntNo": 45341,
+          "Title": "Symptoms: Mental Health"
+        },
+        {
+          "DisplayWeightMax": 720,
+          "DisplayWeightMin": 550,
+          "EntNo": 65807,
+          "Title": "Current and Past Health Conditions"
+        },
+        {
+          "DisplayWeightMax": 280,
+          "DisplayWeightMin": 276,
+          "EntNo": 45317,
+          "Title": "Procedures"
+        },
+        {
+          "DisplayWeightMax": 275,
+          "DisplayWeightMin": 271,
+          "EntNo": 65808,
+          "Title": "Immunizations"
+        },
+        {
+          "DisplayWeightMax": 270,
+          "DisplayWeightMin": 261,
+          "EntNo": 65809,
+          "Title": "Allergies"
+        },
+        {
+          "DisplayWeightMax": 260,
+          "DisplayWeightMin": 251,
+          "EntNo": 45315,
+          "Title": "Medications and Supplements"
+        },
+        {
+          "DisplayWeightMax": 250,
+          "DisplayWeightMin": 241,
+          "EntNo": 45312,
+          "Title": "Family History"
+        },
+        {
+          "DisplayWeightMax": 240,
+          "DisplayWeightMin": 221,
+          "EntNo": 45313,
+          "Title": "Lifestyle and Diet"
+        },
+        {
+          "DisplayWeightMax": 220,
+          "DisplayWeightMin": 211,
+          "EntNo": 45314,
+          "Title": "Travel and Exposures"
+        },
+        {
+          "DisplayWeightMax": 210,
+          "DisplayWeightMin": 201,
+          "EntNo": 44802,
+          "Title": "Other Personal Information"
+        },
+        {
+          "DisplayWeightMax": 110,
+          "DisplayWeightMin": 101,
+          "EntNo": 48715,
+          "Title": "Height and Weight"
+        },
+        {
+          "DisplayWeightMax": 100,
+          "DisplayWeightMin": 95,
+          "EntNo": 30971,
+          "Title": "Vital Signs"
+        },
+        {
+          "DisplayWeightMax": 90,
+          "DisplayWeightMin": 86,
+          "EntNo": 45343,
+          "Title": "Physical Findings: General, Appearance"
+        },
+        {
+          "DisplayWeightMax": 85,
+          "DisplayWeightMin": 76,
+          "EntNo": 45344,
+          "Title": "Physical Findings: Skin, Hair, Nails"
+        },
+        {
+          "DisplayWeightMax": 75,
+          "DisplayWeightMin": 51,
+          "EntNo": 45345,
+          "Title": "Physical Findings: HEENT, Neck"
+        },
+        {
+          "DisplayWeightMax": 50,
+          "DisplayWeightMin": 46,
+          "EntNo": 45346,
+          "Title": "Physical Findings: Chest, Breasts"
+        },
+        {
+          "DisplayWeightMax": 45,
+          "DisplayWeightMin": 41,
+          "EntNo": 45347,
+          "Title": "Physical Findings: Respiratory"
+        },
+        {
+          "DisplayWeightMax": 40,
+          "DisplayWeightMin": 36,
+          "EntNo": 45348,
+          "Title": "Physical Findings: Cardiovascular"
+        },
+        {
+          "DisplayWeightMax": 35,
+          "DisplayWeightMin": 31,
+          "EntNo": 45349,
+          "Title": "Physical Findings: Abdomen"
+        },
+        {
+          "DisplayWeightMax": 30,
+          "DisplayWeightMin": 26,
+          "EntNo": 45350,
+          "Title": "Physical Findings: Rectum, Genitalia"
+        },
+        {
+          "DisplayWeightMax": 25,
+          "DisplayWeightMin": 21,
+          "EntNo": 45351,
+          "Title": "Physical Findings: Musculoskeletal"
+        },
+        {
+          "DisplayWeightMax": 20,
+          "DisplayWeightMin": 11,
+          "EntNo": 45352,
+          "Title": "Physical Findings: Neurologic, Mental Status"
+        },
+        {
+          "DisplayWeightMax": 10,
+          "DisplayWeightMin": 9,
+          "EntNo": 13847,
+          "Title": "Laboratory"
+        },
+        {
+          "DisplayWeightMax": 8,
+          "DisplayWeightMin": 8,
+          "EntNo": 45355,
+          "Title": "Electrocardiography"
+        },
+        {
+          "DisplayWeightMax": 6,
+          "DisplayWeightMin": 6,
+          "EntNo": 45356,
+          "Title": "Imaging"
+        },
+        {
+          "DisplayWeightMax": 4,
+          "DisplayWeightMin": 4,
+          "EntNo": 45357,
+          "Title": "Other Tests"
+        }
+      ],
+      "Name": "Findings"
+    },
+    {
+      "DisplayWeightTitles": [],
+      "Name": "Plan Options, index only"
+    },
+    {
+      "DisplayWeightTitles": [],
+      "Name": "Plan Options, index and cited list"
+    }
+  ],
+  "Findings": [
+    {
+      "DisplayWeight": 810,
+      "EntNo": 2509,
+      "Name": "sleep problem",
+      "RecNo": 1
+    },
+    {
+      "DisplayWeight": 230,
+      "EntNo": 20607,
+      "MmpNo": 4641,
+      "Name": "diet unhealthy meals and snacks",
+      "RecNo": 2
+    },
+    {
+      "DisplayWeight": 230,
+      "EntNo": 22883,
+      "Name": "overeats in response to stress",
+      "RecNo": 3
+    },
+    {
+      "DisplayWeight": 230,
+      "EntNo": 62216,
+      "Name": "skips meals in response to stress",
+      "RecNo": 4
+    },
+    {
+      "DisplayWeight": 260,
+      "EntNo": 44124,
+      "Name": "other current over-the-counter drug or supplement",
+      "RecNo": 5,
+      "ValueType": 2
+    },
+    {
+      "DisplayWeight": 260,
+      "EntNo": 28426,
+      "Name": "current medication",
+      "RecNo": 6,
+      "ValueType": 2
+    },
+    {
+      "AllowAlternateUnits": true,
+      "DisplayWeight": 110,
+      "EntNo": 16647,
+      "Keywords": [
+        {
+          "Name": "BodyWeight"
+        },
+        {
+          "Name": "Range",
+          "Parameters": "50 lb, 1200 lb"
+        }
+      ],
+      "Name": "weight",
+      "RecNo": 7,
+      "ValueType": 8,
+      "ValueTypeUnits": 2
+    },
+    {
+      "DisplayWeight": 990,
+      "EntNo": 12100,
+      "Name": "female",
+      "RecNo": 8
+    },
+    {
+      "AllowAlternateUnits": true,
+      "DisplayWeight": 110,
+      "EntNo": 16645,
+      "Keywords": [
+        {
+          "Name": "AdultHeight"
+        },
+        {
+          "Name": "Range",
+          "Parameters": "2 ft, 9 ft"
+        }
+      ],
+      "Name": "height",
+      "RecNo": 9,
+      "ValueType": 7,
+      "ValueTypeUnits": 4
+    },
+    {
+      "DisplayWeight": 240,
+      "EntNo": 62399,
+      "Name": "drinks alcohol when stressed",
+      "RecNo": 10
+    },
+    {
+      "DisplayWeight": 240,
+      "EntNo": 62400,
+      "Name": "uses recreational drugs in response to stress",
+      "RecNo": 11
+    },
+    {
+      "DisplayWeight": 240,
+      "EntNo": 62401,
+      "Name": "smokes tobacco in response to stress",
+      "RecNo": 12
+    },
+    {
+      "DisplayWeight": 240,
+      "EntNo": 10426,
+      "Name": "limited social support",
+      "RecNo": 13
+    },
+    {
+      "DisplayWeight": 240,
+      "EntNo": 46449,
+      "Name": "does not have close social ties with anyone",
+      "RecNo": 14
+    },
+    {
+      "DisplayWeight": 110,
+      "EntNo": 4769,
+      "Name": "body mass index (BMI)",
+      "RecNo": 15,
+      "ValueType": 1
+    },
+    {
+      "DisplayWeight": 990,
+      "EntNo": 3066,
+      "Name": "male",
+      "RecNo": 21
+    },
+    {
+      "DisplayWeight": 988,
+      "EntNo": 31314,
+      "Keywords": [
+        {
+          "Name": "AgeRange",
+          "Parameters": "0 yr, 120 yr"
+        }
+      ],
+      "Name": "date of birth",
+      "RecNo": 22,
+      "ValueType": 3
+    },
+    {
+      "DisplayWeight": 989,
+      "EntNo": 26479,
+      "Name": "age",
+      "RecNo": 26,
+      "ValueType": 6,
+      "ValueTypeUnits": 1
+    },
+    {
+      "DisplayWeight": 230,
+      "EntNo": 63154,
+      "MmpNo": 4641,
+      "Name": "eats unhealthy foods in response to stress",
+      "RecNo": 28
+    }
+  ],
+  "Form": "normal",
+  "GuidanceOptions": [
+    {
+      "DisplayWeight": 800,
+      "EntNo": 62320,
+      "Name": "Stress and its management",
+      "RecNo": 1,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 700,
+      "EntNo": 48446,
+      "MmpNo": 4713,
+      "Name": "Healthy eating",
+      "RecNo": 2,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 695,
+      "EntNo": 5479,
+      "Name": "Physical activity",
+      "RecNo": 3,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 690,
+      "EntNo": 26329,
+      "MmpNo": 3742,
+      "Name": "Sleep",
+      "RecNo": 4,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 500,
+      "EntNo": 8013,
+      "Name": "Psychotherapy",
+      "RecNo": 5,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 755,
+      "EntNo": 62323,
+      "Name": "Stress diary",
+      "RecNo": 6,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 430,
+      "EntNo": 8763,
+      "Name": "Relaxation techniques",
+      "RecNo": 7,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 750,
+      "EntNo": 2513,
+      "Name": "Health habits",
+      "RecNo": 8,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 675,
+      "EntNo": 52890,
+      "Name": "Job stress",
+      "RecNo": 9,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 685,
+      "EntNo": 48789,
+      "Name": "Social support",
+      "RecNo": 10,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 430,
+      "EntNo": 14356,
+      "Name": "Yoga",
+      "RecNo": 11,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 430,
+      "EntNo": 29989,
+      "Name": "Tai chi",
+      "RecNo": 12,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 680,
+      "EntNo": 17170,
+      "Name": "Time management",
+      "RecNo": 13,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 430,
+      "EntNo": 9758,
+      "Name": "Meditation",
+      "RecNo": 14,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 430,
+      "EntNo": 62540,
+      "Name": "Religious or spiritual practice",
+      "RecNo": 15,
+      "Type": 2
+    },
+    {
+      "DisplayWeight": 760,
+      "EntNo": 64690,
+      "Name": "For children 13 and under",
+      "RecNo": 16,
+      "Type": 2
+    }
+  ],
+  "Introduction": "{{Indrop=1;Outdrop=1}}\r\nStress Management offers guidance for adults who want to reduce and manage stress. It includes information on how to assess your stress level, techniques for reducing and managing stress on your own, and information about psychotherapy services.\r\n\r\n{{Indrop=1;Outdrop=1}}\r\nIf you are feeling overwhelmed by stress or feel that you are in a crisis situation, contact a healthcare provider immediately.\r\n\r\n[END-OF-INTRO]\r\n",
+  "Keywords": [
+    {
+      "MaxDisplayWeight": 800,
+      "MinDisplayWeight": 651,
+      "Name": "Overview"
+    }
+  ],
+  "PlanOptions": [],
+  "Program": 8,
+  "Programs": [
+    {
+      "RecNo": 1,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This program is intended to vote true as long as the user has begun answering\n// questions in the Coupler.  By making sure that the date of birth finding\n// is present, we know the user has entered some data.\n//\n// This proxy is intended to be linked to any GO's that all users will see.\n//\n// Uncertain responses are handled as absent.\n//\n// Template:  PXY#43\n// Version:   2.0\n// Created:   03/02/11\n// Modified:  11/13/12\n////////////////////////////////////////////////////////////////////////////////\n{\n\n  // make sure date of birth finding maps\n\n  short nFnd_Age = MapEntNo (26479,1);\n\n  if (MapEntNo (26479,1) < 0)           // date of birth\n    exit (false);\n\n\n\n  // define the finding list\n\n  short vnFndList[2];\n\n  vnFndList[0] = MapEntNo (26479,1);     // date of birth\n  vnFndList[1] = 0;                      // list terminator\n\n\n  // exit true if the date of birth finding is present\n\n   FndTestList (vnFndList,false) == 1;\n\n}\n\n",
+      "Title": "feeling stressed"
+    },
+    {
+      "ContributingFindings": [
+        {
+          "FindingNo": 10
+        },
+        {
+          "FindingNo": 11
+        }
+      ],
+      "IncludeContributingFindings": true,
+      "RecNo": 2,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This proxy will function as a present finding if one or more findings in \n// the defined list is present.\n//\n// Uncertain responses are handled as absent.\n//\n// Template:  PXY#3\n// Version:   4.0\n// Created:   03/04/02\n// Modified:  10/19/06\n////////////////////////////////////////////////////////////////////////////////\n{\n  \n  // define the finding list\n\n  short vnFndList[] = \n                       {\n                        10,         // drink alcohol in response to stress\n                        11,         // use illegal drugs in response to stress\n                             0          // list terminator\n                        };\n\n  // exit true if one or more of the findings in the list is present\n\n  FndTestList (vnFndList,false) > 0;\n}\n\n\n\n",
+      "Title": "drinks alcohol or uses drugs in response to stress"
+    },
+    {
+      "ErrorText": "The gender or date of birth you entered is invalid.",
+      "Invariant": true,
+      "RecNo": 3,
+      "SourceCode": "///////////////////////////////////////////////////////////////////////////////\n// This program validates that a finding \"male\" (GEN 3066) exists, that a\n// finding \"female\" (GEN 12100) exists and that a finding \"date of birth\"\n// (GEN 31314) also exists.  It then tests that only one gender finding is\n// present, treating uncertain responses as 'absent' and then as 'present'.\n// It then tests that a valid date of birth is entered, such that the resulting\n// age is within the range described below.\n//   \n// Returns:\n//   true:  all tests pass, question flow continues\n//   false: any test fails, question flow is halted\n//\n// Customizing Instructions:\n//   1) Record the number of the Gender/DOB question that starts sequence 1.\n//      Replace the \"1\" in the line below with the correct question number \n//      for your Coupler.\n{\n  short nGenderDOB  = 1;\n\n//   2) If this Coupler is gender specific, (the DOB only version of the \n//      Gender/DOB question is being used), replace the \"false\" in the line \n//      below with \"true\".\n//\n  short bDOBOnly = false;\n\n//   3) If this Coupler's age range differs from the standard (min age = 0 years\n//      and max age = 120 years), provide below the minimum and maximum ages\n//      appropriate for running this Coupler.\n//\n  short nAgeMin        = 0;\n  short nAgeMax        = 120;\n// \n//\n// Template:  GEN#4\n// Version:   7.3\n// Created:   06/12/02\n// Modified:  11/10/09\n///////////////////////////////////////////////////////////////////////////////\n\n  // determine current question and next question numbers\n\n  int nSequence      = 0;\n  int nCurrent       = QstGetNo ();\n  int nNext          = QstGetBranch (0);\n\n  // map the finding numbers from the GENs\n\n  short  nFnd_DOB     = MapEntNo (31314,1);\n  short  nFnd_Age     = MapEntNo (26479,1);\n  short  nFnd_Male;\n  short  nFnd_Female;\n\n  if (!bDOBOnly)\n  {\n    nFnd_Male   = MapEntNo ( 3066,1);\n    nFnd_Female = MapEntNo (12100,1);\n  }\n\n  // start all test by assuming there is an error, set bStatus false\n\n  short bStatus = false;\n  do\n  {\n    // test if the findings mapped from the GENs correctly\n\n    if (bDOBOnly == false && (nFnd_Male < 0 || nFnd_Female < 0))\n      break;\n\n    if (nFnd_DOB < 0 || nFnd_Age < 0)\n      break;\n\n\n    // test for a valid gender finding\n\n    if (!bDOBOnly)\n    {\n      short vLst[] = {0,0,0};\n\n      if (nFnd_Male   < 0)  nFnd_Male   = 0;\n      if (nFnd_Female < 0)  nFnd_Female = 0;\n\n      vLst[0] = nFnd_Male;\n      vLst[1] = nFnd_Female;  \n\n      if (FndTestList (vLst,false) != 1 || FndTestList (vLst,true) != 1)\n      {\n        program(\"hp_GenderDobErrMsg\",0, \"Please select either female or male.\");\n        break;\n      }    \n    }\n\n    // check that the DOB finding has a value\n\n    if (!FvalHasValue (nFnd_DOB))\n    {\n      program (\"hp_GenderDobErrMsg\",0, \"Please provide a valid date of birth.\");\n      break;\n    }\n\n    // declare variables\n\n    fndvalue  fValue;\n    timestamp timDOB;\n    timestamp timCur;\n    timestamp timAge;\n    int       nResult;\n    int       nAgeYrs;\n\n    // retrieve date of birth\n\n    FvalGet (nFnd_DOB,&fValue);\n    FvalGetValue (&fValue,&timDOB);\n\n    // retrieve current date\n\n    TimeGetCur(&timCur);\n\n    // age calculation failed, DOB is in the future\n\n    nResult = program(\"hp_GetAgeFromBirthDate\",0,&timAge);\n    if (nResult < 0)\n    {\n      program(\"hp_GenderDobErrMsg\",0,\"You have entered a date of birth outside the allowed range.\");\n      break;\n    }    \n\n    // is the age below AgeMin or above AgeMax?\n\n    nAgeYrs = TimeGetField(&timAge,0);\n    if (nAgeYrs < nAgeMin || nAgeYrs > nAgeMax)\n    {\n      program(\"hp_GenderDobErrMsg\",0,\"You have entered a date of birth outside the allowed range.\");\n      break;\n    }\n\n    // no errors were found, set bStatus true\n\n    bStatus = true;\n  }\n  while (false);\n\n  if (bStatus == true)\n    QstSetBranch (0,nNext);\n  else\n  {\n    QstSetBranch (0,nSequence);\n\n    if (nCurrent < 0)\n      SetErrorCtxt (\"Invalid response to GENDER OR DATE OF BIRTH.\",nGenderDOB);\n  }\n\n  // return value of bStatus\n\n  exit (bStatus);\n}\n",
+      "Title": "val_Gender/DOB"
+    },
+    {
+      "RecNo": 4,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This program computes the age from the date of birth.\n//\n// Parameters:\n//   timeAge receives the age as { years, months (0-12), days (0-31)}\n//\n// Returns:\n//    true:   passed, set age to a valid value, sets finding present\n//    false:  error,  sets finding absent\n//\n// Notes:\n//   If a valid age can't be obtained from hp_GetAgeFromBirthDate then the age\n//   finding is set absent. (The value is cleared as a result.)\n// \n// Template:  GEN#5\n// Version:   5.1\n// Created:   07/17/02\n// Modified:  08/14/07\n////////////////////////////////////////////////////////////////////////////////\n{\n\n  // map the age finding\n\n  int nFnd_Age = MapEntNo (26479,1);\n\n  // exit false if the finding does not map\n\n  if (nFnd_Age < 0)\n    exit (false);         \n\n  \n  // exit if outside the questionnaire; do not alter findings\n  \n  if (QstGetNo() < 0)\n  {\n    if (Fnd[nFnd_Age] == FndP)\n      exit (true);\n    else\n      exit (false);\n  } \n  \n\n  // compute age\n\n  timestamp timAge;\n  int       nResult;\n\n  nResult = Program (\"hp_GetAgeFromBirthDate\",0,&timAge);\n\n  // exit false if a valid age is not returned, set finding absent\n  \n  if (nResult < 0)\n  {\n    Fnd[nFnd_Age] = FndA;\n    exit (false);        \n  }\n\n  // set age finding with units appropriate to the calculated age\n\n  fndvalue  Fvalue;\n  int       vnAgeComps[3];\n  int       nAge;\n\n  FvalInit (nFnd_Age,&Fvalue);\n\n  vnAgeComps[0] = TimeGetField (&timAge,0);  // years\n  vnAgeComps[1] = TimeGetField (&timAge,1);  // months\n  vnAgeComps[2] = TimeGetField (&timAge,2);  // days\n\n  do\n  {\n    // set units to \"years\" if age is 2 years or older\n    \n    nAge = vnAgeComps[0];\n\n    if (nAge >= 2)\n    {\n      FvalSetUnits (&Fvalue,\"years\");\n      break;\n    }\n    \n    // set units to \"months\" if age is 1 to 23 months\n\n    nAge = 12 * vnAgeComps[0] + vnAgeComps[1];\n\n    if (nAge >= 1)\n    {                                   \n      FvalSetUnits (&Fvalue,\"months\");\n      break;\n    }\n    \n    // set units to \"days\" if age is less than one month \n\n    nAge = vnAgeComps[2];\n    FvalSetUnits (&Fvalue,\"days\");\n\n  }\n  while (false);\n\n  // set the age value and exit\n\n  FvalSetValue (&Fvalue,&nAge);\n  FvalSet (nFnd_Age,&Fvalue);\n  Fnd[nFnd_Age] = FndP;  \n\n  exit (true); \n}\n",
+      "Title": "SetSynthAge"
+    },
+    {
+      "RecNo": 5,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This helper program tests that the DOB finding exists and has a value. If\n// the GEN fails to map to a finding, the finding is not valued or the date of\n// birth provided is in the future, the program will return a -1. If the finding\n// exists and has a value the program returns the Age.\n//\n// Arguments:\n//   timeAge is a place holder for age in years\n//\n// Returns:\n//   Age, in days to the closest whole number\n//   (if -1 is returned, it indicates the program failed in some way)\n//\n// Customizing Instructions:\n//   No Customization is needed.\n// \n// Notes:\n//   The age is provided as a timestamp value and as the number of days. Either\n//   can be used depending on the needs of the calling program.\n//\n// Template:  GEN#7\n// Version:   2.1\n// Created:   03/04/02\n// Modified:  10/02/09\n////////////////////////////////////////////////////////////////////////////////\n@hp_GetAgeFromBirthDate (timestamp timAge)\n{\n  long lFnd_BirthDate = MapEntNo (31314,1);\n\n  // if the finding maps incorrectly or is not valued, return an error\n\n  if (lFnd_BirthDate < 0 || !FvalHasValue (lFnd_BirthDate))\n    exit (-1);\n\n  // define the variables\n\n  timestamp timDOB;\n  timestamp timCur;\n  fndvalue  Fvalue;\n  double    fAgeInDays;\n\n  // get the date of birth and the current date\n\n  FvalGet (lFnd_BirthDate,&Fvalue);\n  FvalGetValue (&Fvalue,&timDOB);\n  TimeGetCur (&timCur);\n\n  // if the date of birth entry is in the future, return an error\n\n  if (Program (\"hp_DatePastPresFuture\",0,&timDOB,&timCur) > 0)\n    exit (-1);\n\n  // set default DOB to valid date to prevent run time from  \n  // returning an error when in scan mode\n\n  if (false)   \n  {\n    TimeInit (&timDOB,1990, 1, 1,0,0,0);  // Jan  1, 1990 (12:00 AM)\n  }\n\n  // get the time elapsed and the timespan.  Return the age in days rounded to\n  // the nearest whole day.\n\n  TimeGetElapse (&timAge,&timCur,&timDOB);\n  TimeGetSpan (&fAgeInDays,&timCur,&timDOB,0);\n\n  exit (fAgeInDays + 0.5);\n}\n\n",
+      "Title": "hp_GetAgeFromBirthDate"
+    },
+    {
+      "RecNo": 6,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This helper program creates an enhanced error message for the Gender/DOB\n// question.\n//\n// Arguments:\n//   szErrMsg - the specific error text\n//\n// Returns:\n//   true\n//\n// Template:  GEN#8\n// Version:   6.1\n// Created:   06/27/02\n// Modified:  07/13/04\n////////////////////////////////////////////////////////////////////////////////\n@hp_GenderDobErrMsg(char szErrMsg[351])\n{\n  // define error text\n\n  if (QstGetNo () < 0)                  // use passed text in fnd error summary\n  {\n    SetErrorCtxt(szErrMsg); \n    exit (true);\n  }\n\n  char szLF[]        = {10,0};          // one line feed (\"\\n\")\n  char szTwoLF[]     = {10,10,0};       // two line feeds (\"\\n\\n\")\n  char szErrTxt[351] = \"\";              // message string buffer\n\n  Strcat(szErrTxt,szErrMsg);\n  Strcat(szErrTxt,szTwoLF);\n  Strcat(szErrTxt,\"Click YES to make the necessary correction.\");\n  Strcat(szErrTxt,szLF);\n  Strcat(szErrTxt,\"If you click NO, you will not be able to proceed.\");\n\n  SetErrorCtxt(szErrTxt,-1,1); \n  exit (true);\n}\n",
+      "Title": "hp_GenderDobErrMsg"
+    },
+    {
+      "RecNo": 7,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This helper program determines if the given date is past, present or future\n// in comparison to the target date.  \n//\n// Arguments:\n//   timGiven  -- date in question\n//   timTarget -- reference date, typically the system date\n//\n// Returns:\n//  -1: past     (timGiven is in the past compared to the timTarget)\n//   0: present  (timGiven is equal to the timTarget)\n//   1: future   (timGiven is in the future compared to the timTarget)\n// \n// Template:  GEN#6\n// Version:   1.0\n// Created:   12/12/01\n// Modified:  06/27/02\n//////////////////////////////////////////////////////////////////////////////////\n@hp_DatePastPresFuture (timestamp timGiven, timestamp timTarget)\n{\n  short nDiff;\n  short nIndex = 0;\n\n  while (nIndex < 3)\n  {\n    nDiff = TimeGetField (&timGiven,nIndex) -\n            TimeGetField (&timTarget,nIndex);\n\n    if (nDiff != 0)\n    {\n      if (nDiff < 0)  \n        exit (-1);                      // timGiven is in the past\n      else\n        exit (1);                       // timGiven is in the future\n    }\n\n    nIndex = nIndex + 1;\n  }\n\n  exit (0);                             // date is today\n}\n",
+      "Title": "hp_DatePastPresFuture"
+    },
+    {
+      "RecNo": 8,
+      "SourceCode": "//////////////////////////////////////////////////////////////////////////////////\n// This program is used to run all programs that compute synthesized findings for\n// this Coupler. This ensures that all synthesized findings are up to date at the\n// time the Coupler is saved or is loaded from a previously saved session.\n//\n// Returns:\n//   always returns true\n//\n// Template:  GEN#1\n// Version:   3.5\n// Created:   04/15/04\n// Modified:  08/14/07\n///////////////////////////////////////////////////////////////////////////////\n{\n  // run all the programs that compute synthesized Findings\n\n  Program (\"SetSynthAge\",0);\n\n  Program (\"SetSynthBMI\",0);\n\n  // exit true \n\n  exit (true);\n}\n",
+      "Title": "en_Sequence"
+    },
+    {
+      "RecNo": 9,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n//   ** IMPORTANT NOTES ABOUT THIS ENTRY PROGRAM **\n//      --------------------------------\n// \n// This proxy will ALWAYS VOTE FALSE.  It is intended to mask the Gender/date of\n// birth Q prompt question so that it is never actually displayed.\n// \n// Neither the \"Finding List\" nor the \"Contributing Finding\" checkboxes should\n// be selected when using this proxy.\n//\n// Template:  CSG#280\n// Version:   6.0\n// Created:   08/14/02\n// Modified:  08/05/09\n////////////////////////////////////////////////////////////////////////////////\n{\n  \n  // always exit false\n    \n  exit (false);\n}\n",
+      "Title": "en_Q_Prompt"
+    },
+    {
+      "RecNo": 10,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This proxy will function as a present finding if the age is within a\n// defined range.\n//\n// Template:  PXY#10\n// Version:   3.3\n// Created:   07/02/02\n// Modified:  02/21/07\n////////////////////////////////////////////////////////////////////////////////\n{\n\n\n  // define the variables\n\n  short nFnd_Age = MapEntNo (26479,1);\n\n  // exit false if age finding does not map or is not valued\n\n  if (nFnd_Age < 0)\n    exit (false);\n\n  if (!FvalHasValue (nFnd_Age))\n    exit (false);\n\n  // get the age value\n\n  FndValue Fvalue;\n  short    nAge;\n\n  FvalGet(nFnd_Age,&Fvalue);\n  FvalCvtUnits(&Fvalue,\"years\");\n  FvalGetValue (&Fvalue,&nAge);\n\n  // evaluate\n\n  nAge < 14;                           // age less than 14;\n}\n\n\n",
+      "Title": "age 13 and under"
+    },
+    {
+      "ErrorText": "Height and weight: Responses are inconsistent or missing.",
+      "RecNo": 11,
+      "SourceCode": "///////////////////////////////////////////////////////////////////////////////\n// This program performs the following functions:\n//\n// 1) a questionnaire only validation when the user fails to enter a value\n// 2) calls the full validation program\n// 3) calls the SetSynthBMI calculation program  \n//\n// Returns:\n//   true:  validation passes, question flow continues\n//   false: validation fails, question flow is halted\n//\n//\n// Template:  BMI#6\n// Version:   2.1\n// Created:   07/17/02\n// Modified:  08/21/07\n///////////////////////////////////////////////////////////////////////////////\n{\n  // map the findings via their GENs\n\n  short  nFnd_Height = MapEntNo (16645,1);\n  short  nFnd_Weight = MapEntNo (16647,1);\n  \n  // exit false if any finding does not map\n\n  if ((nFnd_Height < 0) || (nFnd_Weight < 0))\n    exit (false);  \n\n\n  // test that the user has entered a value\n\n  short  bNoHeight = !FvalHasValue (nFnd_Height);\n  short  bNoWeight = !FvalHasValue (nFnd_Weight);\n\n  if (bNoHeight && bNoWeight)\n  {\n    SetErrorCtxt (\"Please enter a height and a weight value.\");\n    exit (false);\n  }\n\n  // test height and weight validation\n\n  short bStatus = program (\"val_Height and Weight\", 0);\n\n  // compute the body mass index\n\n  program (\"SetSynthBMI\", 0);\n\n  // return value of bStatus\n\n  exit (bStatus);\n  \n}\n",
+      "Title": "exVal_Height and Weight"
+    },
+    {
+      "RecNo": 12,
+      "SourceCode": "//////////////////////////////////////////////////////////////////////////////////\n// This program calls the Gender/DOB validation program and the  age \n// synthesizing program, as well as any appropriate clearing programs.  \n//\n// Returns:\n//   true:   validation passes, question flow continues\n//   false:  any validation test fails, question flow is halted\n// \n// Template:  GEN#2\n// Version:   1.1\n// Created:   07/17/02\n// Modified:  08/06/07\n///////////////////////////////////////////////////////////////////////////////\n{\n  // test Gender/DOB validation\n\n  short bStatus = program (\"val_Gender/DOB\", 0);\n\n  // compute Age\n\n  program (\"SetSynthAge\", 0);\n\n  // return value of bStatus\n\n  exit (bStatus);\n}\n",
+      "Title": "ex_Gender/DOB"
+    },
+    {
+      "ErrorText": "The height or weight you entered is invalid.",
+      "Invariant": true,
+      "RecNo": 13,
+      "SourceCode": "///////////////////////////////////////////////////////////////////////////////\n// This program validates that a finding height (GEN 16645) exists, that a\n// finding weight (GEN 16647) also exists. It then tests that the height and \n// weight findings are within thier defined ranges.\n//\n// Height must be between 1 - 8 ft (30 - 270 cm).\n// Weight must be between 10 - 600 lbs (5 - 275 kg).\n//\n// Returns:\n//   true:  all tests pass, question flow continues\n//   false: any test fails, error message is displayed\n//\n//\n// CUSTOMIZING INSTRUCTIONS:\n//\n//   1) Record the number of the height and weight question.  Replace the \"1\"\n//      in the line below with the correct question number for your Coupler.\n{\n    short nHgtWgtQstNum = 8;\n  \n//   2) If this Coupler is atypical and the height and weight findings are NOT\n//      provider specific, replace the \"true\" in the line below with a \"false\".\n//\n    short bHghtWghtProvSpec = false;\n//\n//\n// Template:  BMI#7\n// Version:   7.9\n// Created:   04/24/02\n// Modified:  08/21/07\n///////////////////////////////////////////////////////////////////////////////\n\n  // map the findings via their GENs\n\n  short      nFnd_Height = MapEntNo (16645,1);\n  short      nFnd_Weight = MapEntNo (16647,1);\n\n  // start all test by assuming there is an error, set bStatus false\n\n  short bStatus = false;\n  do\n  {\n   // test if the findings mapped from the GENs correctly\n\n    if (nFnd_Height < 0 || nFnd_Weight < 0)\n      break;    \n\n    // when in the finding error summary and \"BOTH\" height and weight have\n    // no values, assume the question has not been presented yet, no error\n\n    short bNoHeight = !FvalHasValue (nFnd_Height);\n    short bNoWeight = !FvalHasValue (nFnd_Weight);\n\n    if (QstGetNo () <= 0 && bHghtWghtProvSpec && bNoHeight && bNoWeight)\n    {\n      bStatus = true;    // do not report the lack of both findings as an error\n      break;\n    }\n\n\n    // determine height units\n\n    fndValue  Fvalue;\n    char      szUnits[12];\n\n    double    fHeight;\n    short     bHgtMetricUnits = false;\n\n    if (FvalHasValue (nFnd_Height))\n    {\n      FvalGet (nFnd_Height,&Fvalue);\n      FvalGetUnits (&Fvalue,szUnits);\n\n      if (Strequal (szUnits,\"centimeters\",0))\n        bHgtMetricUnits = true;\n\n      else if (Strequal (szUnits,\"kilometers\",0))\n      {\n        bHgtMetricUnits = true;\n        FvalCvtUnits(&Fvalue, \"centimeters\");\n      }\n\n      else if (Strequal (szUnits,\"meters\",0))\n      {\n        bHgtMetricUnits = true;\n        FvalCvtUnits(&Fvalue, \"centimeters\");\n      }\n\n      else if (Strequal (szUnits,\"millimeters\",0))\n      {\n        bHgtMetricUnits = true;\n        FvalCvtUnits(&Fvalue, \"centimeters\");\n      }\n\n      else\n      {\n        bHgtMetricUnits = false;\n        FvalCvtUnits(&Fvalue, \"inches\");\n      }\n\n      // retrieve the height\n\n      FvalGetValue (&Fvalue,&fHeight);\n      \n      // negate any unit conversion round-off factors\n      \n      long nHeight = fHeight * 100000;\n      fHeight = nHeight;\n      fHeight = fHeight / 100000;\n\n    }\n    else\n\n      fHeight = 0;\n\n\n    // validate the height\n\n    if (bHgtMetricUnits == true)\n    {\n      program (\"hp_EnhancedErrMsg\",0, \"Please provide a height between 30 centimeters and 270 centimeters.\");\n      if (fHeight < 30 || fHeight > 270)\n        break;\n    }\n    else\n    {  \n      program (\"hp_EnhancedErrMsg\",0, \"Please provide a height between 1 foot and 8 feet.\");\n      if (fHeight < 12 || fHeight > 96)\n        break;\n    }\n    \n\n    // determine weight units\n\n    double    fWeight;\n    short     bWgtMetricUnits = false;\n\n    if (FvalHasValue (nFnd_Weight))\n    {\n      FvalGet (nFnd_Weight,&Fvalue);\n      FvalGetUnits (&Fvalue,szUnits);\n\n      if (Strequal (szUnits,\"kilograms\",0))\n        bWgtMetricUnits = true;\n\n      else if (Strequal (szUnits,\"grams\",0))\n      {\n        bWgtMetricUnits = true;\n        FvalCvtUnits(&Fvalue, \"kilograms\");\n      }\n\n      else if (Strequal (szUnits,\"milligrams\",0))\n      {\n        bWgtMetricUnits = true;\n        FvalCvtUnits(&Fvalue, \"kilograms\");\n      }\n\n      else\n      {\n        bHgtMetricUnits = false;\n        FvalCvtUnits(&Fvalue, \"pounds\");\n      }\n\n      // retrieve the weight\n\n      FvalGetValue (&Fvalue,&fWeight);\n\n      // negate any unit conversion round-off factors\n      \n      long nWeight = fWeight * 100000;\n      fWeight = nWeight;\n      fWeight = fWeight / 100000;\n    }\n    else\n\n      fWeight = 0;\n      \n\n    // validate the weight\n\n    if (bWgtMetricUnits == true)\n    {\n      program (\"hp_EnhancedErrMsg\",0, \"Please provide a weight between 5 kilograms and 275 kilograms.\");\n      if (fWeight < 5 || fWeight > 275)\n        break;\n    }\n    else\n    { \n      program (\"hp_EnhancedErrMsg\",0, \"Please provide a weight between 10 pounds and 600 pounds.\");\n      if (fWeight < 10 || fWeight > 600)\n        break;\n    }\n\n    // no errors were found, set bStatus true\n\n    bStatus = true;\n  }\n  while (false);\n  \n  // set the error message for the finding error summary\n\n  if (bStatus == false && QstGetNo () <= 0)\n    SetErrorCtxt (\"Invalid response to HEIGHT OR WEIGHT.\", nHgtWgtQstNum);\n\n  // exit with value of bStatus\n\n  exit (bStatus);\n}\n",
+      "Title": "val_Height and Weight"
+    },
+    {
+      "RecNo": 14,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This program calculates the Body mass index (GEN 4769) synthesized finding.\n// It uses the height (GEN 16645) and the weight (GEN 16647) findings.  It converts\n// the units to meters and kilograms to use the simplist conversion calculation.\n// It checks that the findings are valued, but it assumes that if they are valued\n// they have been correctly validated at entry.\n//\n// Parameters:\n//   none\n//\n// Returns:\n//    true:   passed, set BMI to a valid value, sets finding present\n//    false:  error,  BMI set absent if value is < 0 or > 200\n//\n// Template:  BMI#5\n// Version:   10.1\n// Created:   04/24/02\n// Modified:  08/20/09\n////////////////////////////////////////////////////////////////////////////////\n{\n  // map the findings \n\n  short    nFnd_Height   = MapEntNo (16645,1);\n  short    nFnd_Weight   = MapEntNo (16647,1);\n  short    nFnd_BMI      = MapEntNo ( 4769,1);\n\n  // exit false if any finding does not map\n\n  if ((nFnd_BMI < 0) || (nFnd_Height < 0) || (nFnd_Weight < 0))\n    exit (false);\n    \n    \n  // exit if outside the questionnaire; do not alter findings\n  \n  if (QstGetNo() < 0)\n  {\n    if (Fnd[nFnd_BMI] == FndP)\n      exit (true);\n    else\n      exit (false);\n  }    \n\n  // retrieve and validate the height & weight values. Because height & weight are\n  // provider data, we can not assume they will be present\n\n  fndvalue  fValue;\n  double    fHeight = 0;\n  double    fWeight = 0;\n\n  if (FvalHasValue (nFnd_Height))\n  {\n    FvalGet (nFnd_Height,&fValue);\n    FvalCvtUnits(&fValue, \"meters\");\n    FvalGetValue (&fValue,&fHeight);\n  }\n  else\n    fHeight = 0;\n\n  if (FvalHasValue (nFnd_Weight))\n  {\n    FvalGet (nFnd_Weight,&fValue);\n    FvalCvtUnits(&fValue, \"kilograms\");\n    FvalGetValue (&fValue,&fWeight);\n  }\n  else\n    fWeight = 0;\n\n  // calculate BMI if both values are positive numbers\n\n  double  fBMI    = 0;\n  int     nBMI    = 0;\n\n  // protect against devide-by-zero error in scan mode\n\n  if (fHeight == 0 || fWeight == 0)\n  {\n    fHeight = 1;\n    fWeight = 0;\n  }\n  else\n  {\n    fBMI = fWeight / (fHeight * fHeight);\n\n    // get the 100ths place decimal for rounding\n\n    int     nBMI_100thsMask = 0;            // Mask for 100th place digit\n    int     nBMI_100thsPlc  = 0;            // Least Sig Dig is 100ths place decimal \n    int     nBMI_100thsDec  = 0;            // The 100ths place decimal\n    double  fRound          = 0;            // rounding factor\n\n    if (fBMI * 10 > 32767)                  // invalid data, will not fit into    \n      fBMI = 0;                             // 16 bit variable, set to zero\n\n    nBMI_100thsMask = fBMI * 10;            // Multiply Base value by 10\n    nBMI_100thsMask = nBMI_100thsMask * 10; // Multiply result by 10 to strip\n                                            // off 100th place integer\n    nBMI_100thsPlc  = fBMI * 100;           // Multiply Base value by 100\n\n    nBMI_100thsDec  = nBMI_100thsPlc - nBMI_100thsMask;\n\n    if (nBMI_100thsDec >= 5)\n      fRound = 0.1;\n\n    // round the calculated BMI to the 10ths decimal place\n\n    nBMI = fBMI * 10;\n    fBMI = nBMI;\n    fBMI = fBMI / 10;\n    fBMI = fBMI + fRound;\n  }\n\n // confirm the BMI is valid\n\n  if (fBMI <= 0 || fBMI >= 200)\n  {\n    exit(false); \n  }\n\n  // set the synthesized finding\n\n  FvalInit (nFnd_BMI, &fValue);\n  if (FvalSetValue (&fValue, &fBMI) < 0)\n    exit (false);\n  if (FvalSet (nFnd_BMI, &fValue) < 0)\n    exit (false);\n\n\n  // set the BMI finding present\n  \n  Fnd[nFnd_BMI] = FndP;\n\n\n  exit (true);\n  \n}\n",
+      "Title": "SetSynthBMI"
+    },
+    {
+      "RecNo": 15,
+      "SourceCode": "////////////////////////////////////////////////////////////////////////////////\n// This helper program creates an enhanced error message for the height / weight\n// question.\n//\n// Arguments:\n//   szErrMsg - the specific error text\n//\n// Returns:\n//   true\n//\n// Customizing Instructions:\n//   None\n//\n// Template:  Prg#8\n// Version:   2.2\n// Created:   07/15/03\n// Modified:  07/21/03\n////////////////////////////////////////////////////////////////////////////////\n\n@hp_EnhancedErrMsg(char szErrMsg[351])\n{\n  // define error text\n\n  if (QstGetNo () < 0)                  // use only the passed text in the \n  {                                     // fnding error summary screen\n    SetErrorCtxt(szErrMsg); \n    exit (true);\n  }\n\n  char szLF[]        = {10,0};          // one line feed (\"\\n\")\n  char szTwoLF[]     = {10,10,0};       // two line feeds (\"\\n\\n\")\n  char szErrTxt[351] = \"\";              // message string buffer\n\n  Strcat(szErrTxt,szTwoLF);\n  Strcat(szErrTxt,szErrMsg);\n  Strcat(szErrTxt,szTwoLF);\n\n  SetErrorCtxt(szErrTxt); \n  exit (true);\n}\n",
+      "Title": "hp_EnhancedErrMsg"
+    }
+  ],
+  "Questions": [
+    {
+      "EntryProNo": 9,
+      "NextQuestionBranch": 1,
+      "Panels": {
+        "PanelElement": []
+      },
+      "RecNo": 2,
+      "Title": "History"
+    },
+    {
+      "ExitProNo": 12,
+      "Keywords": [
+        {
+          "Name": "GenderDOB"
+        }
+      ],
+      "NextQuestionBranch": 8,
+      "Panels": {
+        "PanelElement": [
+          {
+            "ResponseElement": [
+              {
+                "FndNo": 8,
+                "Text": "female"
+              },
+              {
+                "FndNo": 21,
+                "Text": "male"
+              }
+            ]
+          },
+          {
+            "ResponseElement": [
+              {
+                "FndNo": 22,
+                "Text": "date of birth"
+              }
+            ]
+          }
+        ]
+      },
+      "RecNo": 1,
+      "Title": "Birth sex, date of birth"
+    },
+    {
+      "ExitProNo": 11,
+      "NextQuestionBranch": 7,
+      "Panels": {
+        "PanelElement": [
+          {
+            "Header": "What is your height?",
+            "ResponseElement": [
+              {
+                "FndNo": 9
+              }
+            ]
+          },
+          {
+            "Header": "What is your weight?",
+            "ResponseElement": [
+              {
+                "FndNo": 7
+              }
+            ]
+          }
+        ]
+      },
+      "RecNo": 8,
+      "Title": "Height and weight"
+    },
+    {
+      "NextQuestionBranch": 10,
+      "Panels": {
+        "PanelElement": [
+          {
+            "Header": "Do you do any of these when you feel stressed?",
+            "ResponseElement": [
+              {
+                "FndNo": 4,
+                "Text": "skip meals"
+              },
+              {
+                "FndNo": 3,
+                "Text": "overeat"
+              },
+              {
+                "FndNo": 28,
+                "MmpNo": -4641,
+                "Text": "eat unhealthy foods"
+              },
+              {
+                "FndNo": 12,
+                "Text": "smoke tobacco (cigarettes, cigars, or pipes)"
+              },
+              {
+                "FndNo": 10,
+                "Text": "drink alcohol"
+              },
+              {
+                "FndNo": 11,
+                "Text": "use recreational drugs"
+              }
+            ]
+          }
+        ]
+      },
+      "RecNo": 7,
+      "Title": "Responding to stress"
+    },
+    {
+      "Keywords": [
+        {
+          "Name": "UsePreamble"
+        }
+      ],
+      "NextQuestionBranch": 5,
+      "Panels": {
+        "PanelElement": [
+          {
+            "Header": "Do any of these apply to you?",
+            "ResponseElement": [
+              {
+                "FndNo": 1,
+                "Text": "sleep problem"
+              },
+              {
+                "FndNo": 2,
+                "MmpNo": -4641,
+                "Text": "eat unhealthy meals and snacks"
+              },
+              {
+                "FndNo": 13,
+                "Text": "have limited social support"
+              },
+              {
+                "FndNo": 14,
+                "Text": "do not have close social ties with anyone (such as strong friendships or bonds)"
+              }
+            ]
+          }
+        ]
+      },
+      "RecNo": 10,
+      "Title": "Lifestyle"
+    },
+    {
+      "Keywords": [
+        {
+          "Name": "Medication"
+        }
+      ],
+      "NextQuestionBranch": 6,
+      "Panels": {
+        "PanelElement": [
+          {
+            "Header": "Are you taking any medications?",
+            "ResponseElement": [
+              {
+                "FndNo": 6
+              }
+            ]
+          }
+        ]
+      },
+      "RecNo": 5,
+      "Title": "Medications"
+    },
+    {
+      "Panels": {
+        "PanelElement": [
+          {
+            "Header": "List any other over-the-counter medicines, vitamins, herbs, or other supplements you are taking. If none, leave blank.",
+            "ResponseElement": [
+              {
+                "FndNo": 5
+              }
+            ]
+          }
+        ]
+      },
+      "RecNo": 6,
+      "Title": "Over-the-counter medications"
+    }
+  ],
+  "References": [
+    {
+      "CommentNo": 27,
+      "FctNo": 50006,
+      "LiteratureCitation": {
+        "SourceNo": 28664
+      },
+      "RecNo": 1
+    },
+    {
+      "FctNo": 46684,
+      "GuidanceOptionNo": 2,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 10
+    },
+    {
+      "FctNo": 46684,
+      "GuidanceOptionNo": 1,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 13
+    },
+    {
+      "CommentNo": 1,
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 14
+    },
+    {
+      "CommentNo": 43,
+      "FctNo": 49901,
+      "LiteratureCitation": {
+        "SourceNo": 28560
+      },
+      "RecNo": 15
+    },
+    {
+      "CommentNo": 5,
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 16
+    },
+    {
+      "CommentNo": 4,
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 17
+    },
+    {
+      "CommentNo": 2,
+      "FctNo": 46731,
+      "LiteratureCitation": {
+        "SourceNo": 25285
+      },
+      "RecNo": 18
+    },
+    {
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 20,
+      "RelationNo": 137
+    },
+    {
+      "CommentNo": 104,
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 21
+    },
+    {
+      "CommentNo": 5,
+      "FctNo": 49885,
+      "LiteratureCitation": {
+        "SourceNo": 28541
+      },
+      "RecNo": 23
+    },
+    {
+      "CommentNo": 28,
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 24
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 49909,
+      "LiteratureCitation": {
+        "SourceNo": 28568
+      },
+      "RecNo": 26
+    },
+    {
+      "CommentNo": 9,
+      "FctNo": 48677,
+      "LiteratureCitation": {
+        "SourceNo": 27325
+      },
+      "RecNo": 27
+    },
+    {
+      "CommentNo": 26,
+      "FctNo": 46860,
+      "LiteratureCitation": {
+        "SourceNo": 25459
+      },
+      "RecNo": 29
+    },
+    {
+      "CommentNo": 45,
+      "FctNo": 47813,
+      "LiteratureCitation": {
+        "SourceNo": 29516
+      },
+      "RecNo": 30
+    },
+    {
+      "CommentNo": 28,
+      "FctNo": 48697,
+      "LiteratureCitation": {
+        "SourceNo": 27347
+      },
+      "RecNo": 31
+    },
+    {
+      "CommentNo": 58,
+      "FctNo": 49894,
+      "LiteratureCitation": {
+        "SourceNo": 28550
+      },
+      "RecNo": 35
+    },
+    {
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 37,
+      "RelationNo": 28
+    },
+    {
+      "FctNo": 48678,
+      "GuidanceOptionNo": 3,
+      "LiteratureCitation": {
+        "SourceNo": 27326
+      },
+      "RecNo": 39
+    },
+    {
+      "CommentNo": 10,
+      "FctNo": 48693,
+      "LiteratureCitation": {
+        "SourceNo": 27338
+      },
+      "RecNo": 40
+    },
+    {
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 41,
+      "RelationNo": 277
+    },
+    {
+      "CommentNo": 11,
+      "FctNo": 47813,
+      "LiteratureCitation": {
+        "SourceNo": 29516
+      },
+      "RecNo": 44
+    },
+    {
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 45,
+      "RelationNo": 36
+    },
+    {
+      "CommentNo": 92,
+      "FctNo": 48727,
+      "LiteratureCitation": {
+        "SourceNo": 27386
+      },
+      "RecNo": 47
+    },
+    {
+      "FctNo": 44891,
+      "GuidanceOptionNo": 8,
+      "LiteratureCitation": {
+        "SourceNo": 23575
+      },
+      "RecNo": 48
+    },
+    {
+      "FctNo": 48678,
+      "LiteratureCitation": {
+        "SourceNo": 27326
+      },
+      "RecNo": 49,
+      "RelationNo": 111
+    },
+    {
+      "FctNo": 46860,
+      "GuidanceOptionNo": 4,
+      "LiteratureCitation": {
+        "SourceNo": 25459
+      },
+      "RecNo": 50
+    },
+    {
+      "FctNo": 46860,
+      "LiteratureCitation": {
+        "SourceNo": 25459
+      },
+      "RecNo": 52,
+      "RelationNo": 51
+    },
+    {
+      "CommentNo": 80,
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 53
+    },
+    {
+      "CommentNo": 10,
+      "FctNo": 48677,
+      "LiteratureCitation": {
+        "SourceNo": 27325
+      },
+      "RecNo": 54
+    },
+    {
+      "CommentNo": 102,
+      "FctNo": 47813,
+      "LiteratureCitation": {
+        "SourceNo": 29516
+      },
+      "RecNo": 55
+    },
+    {
+      "CommentNo": 64,
+      "FctNo": 49899,
+      "LiteratureCitation": {
+        "SourceNo": 28556
+      },
+      "RecNo": 56
+    },
+    {
+      "CommentNo": 3,
+      "FctNo": 48698,
+      "LiteratureCitation": {
+        "SourceNo": 27348
+      },
+      "RecNo": 58
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46794,
+      "LiteratureCitation": {
+        "SourceNo": 25387
+      },
+      "RecNo": 59
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 46869,
+      "LiteratureCitation": {
+        "SourceNo": 25467
+      },
+      "RecNo": 61
+    },
+    {
+      "CommentNo": 39,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 63
+    },
+    {
+      "CommentNo": 28,
+      "FctNo": 48698,
+      "LiteratureCitation": {
+        "SourceNo": 27348
+      },
+      "RecNo": 64
+    },
+    {
+      "CommentNo": 15,
+      "FctNo": 29977,
+      "LiteratureCitation": {
+        "SourceNo": 14427
+      },
+      "RecNo": 65
+    },
+    {
+      "CommentNo": 15,
+      "FctNo": 46837,
+      "LiteratureCitation": {
+        "SourceNo": 25435
+      },
+      "RecNo": 66
+    },
+    {
+      "CommentNo": 103,
+      "FctNo": 47813,
+      "LiteratureCitation": {
+        "SourceNo": 29516
+      },
+      "RecNo": 70
+    },
+    {
+      "CommentNo": 15,
+      "FctNo": 36326,
+      "LiteratureCitation": {
+        "SourceNo": 1592
+      },
+      "RecNo": 71
+    },
+    {
+      "FctNo": 46837,
+      "GuidanceOptionNo": 4,
+      "LiteratureCitation": {
+        "SourceNo": 25435
+      },
+      "RecNo": 75
+    },
+    {
+      "CommentNo": 26,
+      "FctNo": 34297,
+      "LiteratureCitation": {
+        "SourceNo": 27811
+      },
+      "RecNo": 81
+    },
+    {
+      "CommentNo": 15,
+      "FctNo": 47032,
+      "LiteratureCitation": {
+        "SourceNo": 25648
+      },
+      "RecNo": 82
+    },
+    {
+      "CommentNo": 15,
+      "FctNo": 48697,
+      "LiteratureCitation": {
+        "SourceNo": 27347
+      },
+      "RecNo": 84
+    },
+    {
+      "CommentNo": 35,
+      "FctNo": 48678,
+      "LiteratureCitation": {
+        "SourceNo": 27326
+      },
+      "RecNo": 85
+    },
+    {
+      "CommentNo": 20,
+      "FctNo": 49979,
+      "LiteratureCitation": {
+        "SourceNo": 28637
+      },
+      "RecNo": 86
+    },
+    {
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 104,
+      "RelationNo": 102
+    },
+    {
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 105,
+      "RelationNo": 111
+    },
+    {
+      "FctNo": 46729,
+      "GuidanceOptionNo": 7,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 106
+    },
+    {
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 107,
+      "RelationNo": 62
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 48702,
+      "LiteratureCitation": {
+        "SourceNo": 27357
+      },
+      "RecNo": 108
+    },
+    {
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 109,
+      "RelationNo": 62
+    },
+    {
+      "FctNo": 46773,
+      "GuidanceOptionNo": 11,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 113
+    },
+    {
+      "FctNo": 46773,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 114,
+      "RelationNo": 298
+    },
+    {
+      "CommentNo": 54,
+      "FctNo": 46773,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 115
+    },
+    {
+      "FctNo": 46729,
+      "GuidanceOptionNo": 3,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 116
+    },
+    {
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 117,
+      "RelationNo": 111
+    },
+    {
+      "FctNo": 48662,
+      "GuidanceOptionNo": 3,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 118
+    },
+    {
+      "CommentNo": 35,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 119
+    },
+    {
+      "CommentNo": 40,
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 120
+    },
+    {
+      "CommentNo": 20,
+      "FctNo": 49977,
+      "LiteratureCitation": {
+        "SourceNo": 28636
+      },
+      "RecNo": 123
+    },
+    {
+      "FctNo": 38143,
+      "GuidanceOptionNo": 7,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 124
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46781,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 125
+    },
+    {
+      "CommentNo": 38,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 128
+    },
+    {
+      "CommentNo": 32,
+      "FctNo": 36386,
+      "LiteratureCitation": {
+        "SourceNo": 2705
+      },
+      "RecNo": 129
+    },
+    {
+      "CommentNo": 36,
+      "FctNo": 46836,
+      "LiteratureCitation": {
+        "SourceNo": 25434
+      },
+      "RecNo": 130
+    },
+    {
+      "CommentNo": 33,
+      "FctNo": 36383,
+      "LiteratureCitation": {
+        "SourceNo": 2698
+      },
+      "RecNo": 131
+    },
+    {
+      "CommentNo": 36,
+      "FctNo": 36383,
+      "LiteratureCitation": {
+        "SourceNo": 2698
+      },
+      "RecNo": 132
+    },
+    {
+      "CommentNo": 44,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 134
+    },
+    {
+      "FctNo": 38143,
+      "GuidanceOptionNo": 6,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 135
+    },
+    {
+      "FctNo": 46735,
+      "GuidanceOptionNo": 1,
+      "LiteratureCitation": {
+        "SourceNo": 25289
+      },
+      "RecNo": 138
+    },
+    {
+      "CommentNo": 99,
+      "FctNo": 46868,
+      "LiteratureCitation": {
+        "SourceNo": 25466
+      },
+      "RecNo": 143
+    },
+    {
+      "FctNo": 48660,
+      "LiteratureCitation": {
+        "SourceNo": 27307
+      },
+      "RecNo": 144,
+      "RelationNo": 62
+    },
+    {
+      "CommentNo": 39,
+      "FctNo": 48660,
+      "LiteratureCitation": {
+        "SourceNo": 27307
+      },
+      "RecNo": 145
+    },
+    {
+      "FctNo": 44891,
+      "LiteratureCitation": {
+        "SourceNo": 23575
+      },
+      "RecNo": 146,
+      "RelationNo": 195
+    },
+    {
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 147,
+      "RelationNo": 34
+    },
+    {
+      "CommentNo": 44,
+      "FctNo": 48700,
+      "LiteratureCitation": {
+        "SourceNo": 27353
+      },
+      "RecNo": 148
+    },
+    {
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 152,
+      "RelationNo": 38
+    },
+    {
+      "CommentNo": 62,
+      "FctNo": 46781,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 153
+    },
+    {
+      "FctNo": 48703,
+      "GuidanceOptionNo": 8,
+      "LiteratureCitation": {
+        "SourceNo": 27358
+      },
+      "RecNo": 157
+    },
+    {
+      "FctNo": 46794,
+      "GuidanceOptionNo": 14,
+      "LiteratureCitation": {
+        "SourceNo": 25387
+      },
+      "RecNo": 159
+    },
+    {
+      "FctNo": 46794,
+      "LiteratureCitation": {
+        "SourceNo": 25387
+      },
+      "RecNo": 161,
+      "RelationNo": 320
+    },
+    {
+      "FctNo": 46731,
+      "GuidanceOptionNo": 9,
+      "LiteratureCitation": {
+        "SourceNo": 25285
+      },
+      "RecNo": 162
+    },
+    {
+      "FctNo": 46806,
+      "GuidanceOptionNo": 12,
+      "LiteratureCitation": {
+        "SourceNo": 25403
+      },
+      "RecNo": 163
+    },
+    {
+      "FctNo": 46806,
+      "LiteratureCitation": {
+        "SourceNo": 25403
+      },
+      "RecNo": 164,
+      "RelationNo": 322
+    },
+    {
+      "FctNo": 46729,
+      "GuidanceOptionNo": 14,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 165
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46814,
+      "LiteratureCitation": {
+        "SourceNo": 25417
+      },
+      "RecNo": 166
+    },
+    {
+      "CommentNo": 57,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 167
+    },
+    {
+      "FctNo": 46803,
+      "LiteratureCitation": {
+        "SourceNo": 25399
+      },
+      "RecNo": 168,
+      "RelationNo": 360
+    },
+    {
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 169,
+      "RelationNo": 320
+    },
+    {
+      "FctNo": 46799,
+      "GuidanceOptionNo": 14,
+      "LiteratureCitation": {
+        "SourceNo": 3550
+      },
+      "RecNo": 170
+    },
+    {
+      "CommentNo": 64,
+      "FctNo": 46806,
+      "LiteratureCitation": {
+        "SourceNo": 25403
+      },
+      "RecNo": 171
+    },
+    {
+      "FctNo": 46731,
+      "LiteratureCitation": {
+        "SourceNo": 25285
+      },
+      "RecNo": 172,
+      "RelationNo": 360
+    },
+    {
+      "CommentNo": 51,
+      "FctNo": 46801,
+      "LiteratureCitation": {
+        "SourceNo": 25397
+      },
+      "RecNo": 173
+    },
+    {
+      "CommentNo": 39,
+      "FctNo": 46773,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 174
+    },
+    {
+      "CommentNo": 55,
+      "FctNo": 46801,
+      "LiteratureCitation": {
+        "SourceNo": 25397
+      },
+      "RecNo": 175
+    },
+    {
+      "CommentNo": 42,
+      "FctNo": 46815,
+      "LiteratureCitation": {
+        "SourceNo": 25418
+      },
+      "RecNo": 176
+    },
+    {
+      "CommentNo": 51,
+      "FctNo": 46731,
+      "LiteratureCitation": {
+        "SourceNo": 25285
+      },
+      "RecNo": 177
+    },
+    {
+      "FctNo": 46799,
+      "LiteratureCitation": {
+        "SourceNo": 3550
+      },
+      "RecNo": 178,
+      "RelationNo": 320
+    },
+    {
+      "CommentNo": 4,
+      "FctNo": 48676,
+      "LiteratureCitation": {
+        "SourceNo": 27324
+      },
+      "RecNo": 180
+    },
+    {
+      "CommentNo": 10,
+      "FctNo": 48694,
+      "LiteratureCitation": {
+        "SourceNo": 27344
+      },
+      "RecNo": 181
+    },
+    {
+      "CommentNo": 92,
+      "FctNo": 46794,
+      "LiteratureCitation": {
+        "SourceNo": 25387
+      },
+      "RecNo": 182
+    },
+    {
+      "FctNo": 46729,
+      "GuidanceOptionNo": 8,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 183
+    },
+    {
+      "CommentNo": 58,
+      "FctNo": 48704,
+      "LiteratureCitation": {
+        "SourceNo": 27360
+      },
+      "RecNo": 184
+    },
+    {
+      "CommentNo": 64,
+      "FctNo": 48713,
+      "LiteratureCitation": {
+        "SourceNo": 27369
+      },
+      "RecNo": 185
+    },
+    {
+      "FctNo": 48704,
+      "LiteratureCitation": {
+        "SourceNo": 27360
+      },
+      "RecNo": 186,
+      "RelationNo": 19
+    },
+    {
+      "CommentNo": 57,
+      "FctNo": 48703,
+      "LiteratureCitation": {
+        "SourceNo": 27358
+      },
+      "RecNo": 189
+    },
+    {
+      "CommentNo": 57,
+      "FctNo": 44891,
+      "LiteratureCitation": {
+        "SourceNo": 23575
+      },
+      "RecNo": 190
+    },
+    {
+      "FctNo": 46734,
+      "GuidanceOptionNo": 13,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 191
+    },
+    {
+      "CommentNo": 82,
+      "FctNo": 49896,
+      "LiteratureCitation": {
+        "SourceNo": 28552
+      },
+      "RecNo": 192
+    },
+    {
+      "CommentNo": 60,
+      "FctNo": 50006,
+      "LiteratureCitation": {
+        "SourceNo": 28664
+      },
+      "RecNo": 194
+    },
+    {
+      "CommentNo": 100,
+      "FctNo": 36852,
+      "LiteratureCitation": {
+        "SourceNo": 2481
+      },
+      "RecNo": 196
+    },
+    {
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 197,
+      "RelationNo": 195
+    },
+    {
+      "CommentNo": 100,
+      "FctNo": 36857,
+      "LiteratureCitation": {
+        "SourceNo": 2532
+      },
+      "RecNo": 199
+    },
+    {
+      "CommentNo": 82,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 200
+    },
+    {
+      "CommentNo": 58,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 201
+    },
+    {
+      "CommentNo": 82,
+      "FctNo": 46793,
+      "LiteratureCitation": {
+        "SourceNo": 25396
+      },
+      "RecNo": 202
+    },
+    {
+      "FctNo": 48704,
+      "LiteratureCitation": {
+        "SourceNo": 27360
+      },
+      "RecNo": 203,
+      "RelationNo": 22
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 204,
+      "RelationNo": 19
+    },
+    {
+      "CommentNo": 61,
+      "FctNo": 48705,
+      "LiteratureCitation": {
+        "SourceNo": 27361
+      },
+      "RecNo": 205
+    },
+    {
+      "CommentNo": 61,
+      "FctNo": 48704,
+      "LiteratureCitation": {
+        "SourceNo": 27360
+      },
+      "RecNo": 206
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 208
+    },
+    {
+      "CommentNo": 82,
+      "FctNo": 46799,
+      "LiteratureCitation": {
+        "SourceNo": 3550
+      },
+      "RecNo": 209
+    },
+    {
+      "CommentNo": 50,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 211
+    },
+    {
+      "CommentNo": 42,
+      "FctNo": 35428,
+      "LiteratureCitation": {
+        "Details": "p179-93, 52",
+        "SourceNo": 25450
+      },
+      "RecNo": 212
+    },
+    {
+      "FctNo": 48713,
+      "GuidanceOptionNo": 12,
+      "LiteratureCitation": {
+        "SourceNo": 27369
+      },
+      "RecNo": 214
+    },
+    {
+      "FctNo": 48713,
+      "LiteratureCitation": {
+        "SourceNo": 27369
+      },
+      "RecNo": 215,
+      "RelationNo": 322
+    },
+    {
+      "FctNo": 48703,
+      "LiteratureCitation": {
+        "SourceNo": 27358
+      },
+      "RecNo": 216,
+      "RelationNo": 151
+    },
+    {
+      "FctNo": 46781,
+      "GuidanceOptionNo": 11,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 217
+    },
+    {
+      "CommentNo": 92,
+      "FctNo": 46799,
+      "LiteratureCitation": {
+        "SourceNo": 3550
+      },
+      "RecNo": 218
+    },
+    {
+      "CommentNo": 54,
+      "FctNo": 46781,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 219
+    },
+    {
+      "CommentNo": 43,
+      "FctNo": 46773,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 220
+    },
+    {
+      "FctNo": 46781,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 222,
+      "RelationNo": 298
+    },
+    {
+      "CommentNo": 43,
+      "FctNo": 48706,
+      "LiteratureCitation": {
+        "SourceNo": 27362
+      },
+      "RecNo": 223
+    },
+    {
+      "CommentNo": 56,
+      "FctNo": 46781,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 225
+    },
+    {
+      "CommentNo": 54,
+      "FctNo": 48706,
+      "LiteratureCitation": {
+        "SourceNo": 27362
+      },
+      "RecNo": 227
+    },
+    {
+      "CommentNo": 63,
+      "FctNo": 48727,
+      "LiteratureCitation": {
+        "SourceNo": 27386
+      },
+      "RecNo": 228
+    },
+    {
+      "FctNo": 46801,
+      "GuidanceOptionNo": 9,
+      "LiteratureCitation": {
+        "SourceNo": 25397
+      },
+      "RecNo": 229
+    },
+    {
+      "FctNo": 46803,
+      "GuidanceOptionNo": 9,
+      "LiteratureCitation": {
+        "SourceNo": 25399
+      },
+      "RecNo": 230
+    },
+    {
+      "CommentNo": 59,
+      "FctNo": 47803,
+      "LiteratureCitation": {
+        "SourceNo": 26433
+      },
+      "RecNo": 233
+    },
+    {
+      "CommentNo": 63,
+      "FctNo": 36398,
+      "LiteratureCitation": {
+        "SourceNo": 25404
+      },
+      "RecNo": 234
+    },
+    {
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 235,
+      "RelationNo": 232
+    },
+    {
+      "FctNo": 48660,
+      "GuidanceOptionNo": 7,
+      "LiteratureCitation": {
+        "SourceNo": 27307
+      },
+      "RecNo": 236
+    },
+    {
+      "CommentNo": 63,
+      "FctNo": 46806,
+      "LiteratureCitation": {
+        "SourceNo": 25403
+      },
+      "RecNo": 237
+    },
+    {
+      "CommentNo": 81,
+      "FctNo": 46792,
+      "LiteratureCitation": {
+        "SourceNo": 25385
+      },
+      "RecNo": 238
+    },
+    {
+      "CommentNo": 64,
+      "FctNo": 36398,
+      "LiteratureCitation": {
+        "SourceNo": 25404
+      },
+      "RecNo": 240
+    },
+    {
+      "CommentNo": 81,
+      "FctNo": 46794,
+      "LiteratureCitation": {
+        "SourceNo": 25387
+      },
+      "RecNo": 241
+    },
+    {
+      "FctNo": 36398,
+      "GuidanceOptionNo": 12,
+      "LiteratureCitation": {
+        "SourceNo": 25404
+      },
+      "RecNo": 242
+    },
+    {
+      "FctNo": 36398,
+      "LiteratureCitation": {
+        "SourceNo": 25404
+      },
+      "RecNo": 243,
+      "RelationNo": 322
+    },
+    {
+      "CommentNo": 65,
+      "FctNo": 36398,
+      "LiteratureCitation": {
+        "SourceNo": 25404
+      },
+      "RecNo": 245
+    },
+    {
+      "CommentNo": 81,
+      "FctNo": 46799,
+      "LiteratureCitation": {
+        "SourceNo": 3550
+      },
+      "RecNo": 246
+    },
+    {
+      "CommentNo": 65,
+      "FctNo": 46806,
+      "LiteratureCitation": {
+        "SourceNo": 25403
+      },
+      "RecNo": 247
+    },
+    {
+      "CommentNo": 82,
+      "FctNo": 48730,
+      "LiteratureCitation": {
+        "SourceNo": 27388
+      },
+      "RecNo": 249
+    },
+    {
+      "CommentNo": 93,
+      "FctNo": 48730,
+      "LiteratureCitation": {
+        "SourceNo": 27388
+      },
+      "RecNo": 250
+    },
+    {
+      "FctNo": 46734,
+      "GuidanceOptionNo": 7,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 251
+    },
+    {
+      "FctNo": 48735,
+      "LiteratureCitation": {
+        "SourceNo": 27392
+      },
+      "RecNo": 252,
+      "RelationNo": 275
+    },
+    {
+      "CommentNo": 95,
+      "FctNo": 48736,
+      "LiteratureCitation": {
+        "SourceNo": 27393
+      },
+      "RecNo": 253
+    },
+    {
+      "FctNo": 46729,
+      "GuidanceOptionNo": 13,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 254
+    },
+    {
+      "FctNo": 38143,
+      "GuidanceOptionNo": 13,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 255
+    },
+    {
+      "CommentNo": 67,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 256
+    },
+    {
+      "CommentNo": 12,
+      "FctNo": 49893,
+      "LiteratureCitation": {
+        "SourceNo": 28549
+      },
+      "RecNo": 257
+    },
+    {
+      "CommentNo": 67,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 258
+    },
+    {
+      "CommentNo": 68,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 261
+    },
+    {
+      "CommentNo": 59,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 262
+    },
+    {
+      "CommentNo": 68,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 265
+    },
+    {
+      "FctNo": 38143,
+      "GuidanceOptionNo": 5,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 271
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 278,
+      "RelationNo": 62
+    },
+    {
+      "CommentNo": 74,
+      "FctNo": 46735,
+      "LiteratureCitation": {
+        "SourceNo": 25289
+      },
+      "RecNo": 279
+    },
+    {
+      "CommentNo": 78,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 281
+    },
+    {
+      "CommentNo": 52,
+      "FctNo": 46801,
+      "LiteratureCitation": {
+        "SourceNo": 25397
+      },
+      "RecNo": 283
+    },
+    {
+      "CommentNo": 74,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 285
+    },
+    {
+      "CommentNo": 78,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 286
+    },
+    {
+      "CommentNo": 52,
+      "FctNo": 46803,
+      "LiteratureCitation": {
+        "SourceNo": 25399
+      },
+      "RecNo": 288
+    },
+    {
+      "CommentNo": 92,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 289
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46806,
+      "LiteratureCitation": {
+        "SourceNo": 25403
+      },
+      "RecNo": 291
+    },
+    {
+      "CommentNo": 43,
+      "FctNo": 46781,
+      "LiteratureCitation": {
+        "SourceNo": 3548
+      },
+      "RecNo": 293
+    },
+    {
+      "CommentNo": 53,
+      "FctNo": 46801,
+      "LiteratureCitation": {
+        "SourceNo": 25397
+      },
+      "RecNo": 294
+    },
+    {
+      "CommentNo": 100,
+      "FctNo": 49892,
+      "LiteratureCitation": {
+        "SourceNo": 28548
+      },
+      "RecNo": 295
+    },
+    {
+      "CommentNo": 53,
+      "FctNo": 46803,
+      "LiteratureCitation": {
+        "SourceNo": 25399
+      },
+      "RecNo": 301
+    },
+    {
+      "CommentNo": 51,
+      "FctNo": 46803,
+      "LiteratureCitation": {
+        "SourceNo": 25399
+      },
+      "RecNo": 302
+    },
+    {
+      "CommentNo": 93,
+      "FctNo": 48727,
+      "LiteratureCitation": {
+        "SourceNo": 27386
+      },
+      "RecNo": 303
+    },
+    {
+      "CommentNo": 93,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 304
+    },
+    {
+      "CommentNo": 81,
+      "FctNo": 48728,
+      "LiteratureCitation": {
+        "SourceNo": 27387
+      },
+      "RecNo": 305
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46773,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 306
+    },
+    {
+      "CommentNo": 81,
+      "FctNo": 48727,
+      "LiteratureCitation": {
+        "SourceNo": 27386
+      },
+      "RecNo": 307
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 48701,
+      "LiteratureCitation": {
+        "SourceNo": 27356
+      },
+      "RecNo": 309
+    },
+    {
+      "CommentNo": 50,
+      "FctNo": 49888,
+      "LiteratureCitation": {
+        "SourceNo": 28544
+      },
+      "RecNo": 317
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 49897,
+      "LiteratureCitation": {
+        "SourceNo": 28554
+      },
+      "RecNo": 318
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 49898,
+      "LiteratureCitation": {
+        "SourceNo": 28555
+      },
+      "RecNo": 321
+    },
+    {
+      "CommentNo": 9,
+      "FctNo": 49889,
+      "LiteratureCitation": {
+        "SourceNo": 28545
+      },
+      "RecNo": 323
+    },
+    {
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 324,
+      "RelationNo": 232
+    },
+    {
+      "FctNo": 46867,
+      "LiteratureCitation": {
+        "SourceNo": 25465
+      },
+      "RecNo": 325,
+      "RelationNo": 275
+    },
+    {
+      "CommentNo": 4,
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 326
+    },
+    {
+      "CommentNo": 94,
+      "FctNo": 46735,
+      "LiteratureCitation": {
+        "SourceNo": 25289
+      },
+      "RecNo": 327
+    },
+    {
+      "CommentNo": 38,
+      "FctNo": 46731,
+      "LiteratureCitation": {
+        "SourceNo": 25285
+      },
+      "RecNo": 329
+    },
+    {
+      "CommentNo": 39,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 330
+    },
+    {
+      "CommentNo": 40,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 331
+    },
+    {
+      "CommentNo": 92,
+      "FctNo": 46792,
+      "LiteratureCitation": {
+        "SourceNo": 25385
+      },
+      "RecNo": 333
+    },
+    {
+      "CommentNo": 40,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 334
+    },
+    {
+      "CommentNo": 28,
+      "FctNo": 46837,
+      "LiteratureCitation": {
+        "SourceNo": 25435
+      },
+      "RecNo": 335
+    },
+    {
+      "FctNo": 46837,
+      "LiteratureCitation": {
+        "SourceNo": 25435
+      },
+      "RecNo": 336,
+      "RelationNo": 51
+    },
+    {
+      "FctNo": 48735,
+      "GuidanceOptionNo": 15,
+      "LiteratureCitation": {
+        "SourceNo": 27392
+      },
+      "RecNo": 337
+    },
+    {
+      "CommentNo": 40,
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 338
+    },
+    {
+      "CommentNo": 95,
+      "FctNo": 46868,
+      "LiteratureCitation": {
+        "SourceNo": 25466
+      },
+      "RecNo": 339
+    },
+    {
+      "CommentNo": 80,
+      "FctNo": 49884,
+      "LiteratureCitation": {
+        "SourceNo": 28540
+      },
+      "RecNo": 340
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 48736,
+      "LiteratureCitation": {
+        "SourceNo": 27393
+      },
+      "RecNo": 341
+    },
+    {
+      "CommentNo": 95,
+      "FctNo": 46867,
+      "LiteratureCitation": {
+        "SourceNo": 25465
+      },
+      "RecNo": 343
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 48735,
+      "LiteratureCitation": {
+        "SourceNo": 27392
+      },
+      "RecNo": 344
+    },
+    {
+      "CommentNo": 99,
+      "FctNo": 48736,
+      "LiteratureCitation": {
+        "SourceNo": 27393
+      },
+      "RecNo": 345
+    },
+    {
+      "CommentNo": 2,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 346
+    },
+    {
+      "CommentNo": 74,
+      "FctNo": 49911,
+      "LiteratureCitation": {
+        "SourceNo": 28570
+      },
+      "RecNo": 347
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 38108,
+      "LiteratureCitation": {
+        "SourceNo": 15952
+      },
+      "RecNo": 348
+    },
+    {
+      "CommentNo": 93,
+      "FctNo": 49983,
+      "LiteratureCitation": {
+        "SourceNo": 28641
+      },
+      "RecNo": 351
+    },
+    {
+      "FctNo": 46815,
+      "GuidanceOptionNo": 7,
+      "LiteratureCitation": {
+        "SourceNo": 25418
+      },
+      "RecNo": 352
+    },
+    {
+      "FctNo": 46815,
+      "LiteratureCitation": {
+        "SourceNo": 25418
+      },
+      "RecNo": 353,
+      "RelationNo": 62
+    },
+    {
+      "CommentNo": 95,
+      "FctNo": 48735,
+      "LiteratureCitation": {
+        "SourceNo": 27392
+      },
+      "RecNo": 354
+    },
+    {
+      "CommentNo": 99,
+      "FctNo": 46869,
+      "LiteratureCitation": {
+        "SourceNo": 25467
+      },
+      "RecNo": 355
+    },
+    {
+      "FctNo": 46867,
+      "GuidanceOptionNo": 15,
+      "LiteratureCitation": {
+        "SourceNo": 25465
+      },
+      "RecNo": 358
+    },
+    {
+      "FctNo": 46801,
+      "LiteratureCitation": {
+        "SourceNo": 25397
+      },
+      "RecNo": 361,
+      "RelationNo": 360
+    },
+    {
+      "CommentNo": 41,
+      "FctNo": 46815,
+      "LiteratureCitation": {
+        "SourceNo": 25418
+      },
+      "RecNo": 362
+    },
+    {
+      "CommentNo": 39,
+      "FctNo": 46815,
+      "LiteratureCitation": {
+        "SourceNo": 25418
+      },
+      "RecNo": 365
+    },
+    {
+      "CommentNo": 57,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 367
+    },
+    {
+      "FctNo": 46734,
+      "GuidanceOptionNo": 8,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 368
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 369,
+      "RelationNo": 195
+    },
+    {
+      "CommentNo": 60,
+      "FctNo": 36857,
+      "LiteratureCitation": {
+        "SourceNo": 2532
+      },
+      "RecNo": 370
+    },
+    {
+      "FctNo": 46734,
+      "GuidanceOptionNo": 5,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 375
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 376,
+      "RelationNo": 102
+    },
+    {
+      "CommentNo": 32,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 377
+    },
+    {
+      "CommentNo": 78,
+      "FctNo": 46735,
+      "LiteratureCitation": {
+        "SourceNo": 25289
+      },
+      "RecNo": 378
+    },
+    {
+      "CommentNo": 33,
+      "FctNo": 46836,
+      "LiteratureCitation": {
+        "SourceNo": 25434
+      },
+      "RecNo": 379
+    },
+    {
+      "FctNo": 46734,
+      "GuidanceOptionNo": 1,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 382
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 383,
+      "RelationNo": 137
+    },
+    {
+      "FctNo": 46735,
+      "LiteratureCitation": {
+        "SourceNo": 25289
+      },
+      "RecNo": 384,
+      "RelationNo": 137
+    },
+    {
+      "CommentNo": 94,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 385
+    },
+    {
+      "CommentNo": 1,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 386
+    },
+    {
+      "CommentNo": 1,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 387
+    },
+    {
+      "CommentNo": 4,
+      "FctNo": 49884,
+      "LiteratureCitation": {
+        "SourceNo": 28540
+      },
+      "RecNo": 388
+    },
+    {
+      "CommentNo": 5,
+      "FctNo": 46684,
+      "LiteratureCitation": {
+        "SourceNo": 25233
+      },
+      "RecNo": 390
+    },
+    {
+      "CommentNo": 104,
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 391
+    },
+    {
+      "CommentNo": 35,
+      "FctNo": 48662,
+      "LiteratureCitation": {
+        "SourceNo": 27310
+      },
+      "RecNo": 392
+    },
+    {
+      "FctNo": 36865,
+      "LiteratureCitation": {
+        "SourceNo": 2729
+      },
+      "RecNo": 393,
+      "RelationNo": 111
+    },
+    {
+      "CommentNo": 112,
+      "FctNo": 38119,
+      "LiteratureCitation": {
+        "SourceNo": 2033
+      },
+      "RecNo": 394
+    },
+    {
+      "CommentNo": 60,
+      "FctNo": 36852,
+      "LiteratureCitation": {
+        "SourceNo": 2481
+      },
+      "RecNo": 396
+    },
+    {
+      "CommentNo": 5,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 401
+    },
+    {
+      "CommentNo": 5,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 402
+    },
+    {
+      "CommentNo": 80,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 403
+    },
+    {
+      "CommentNo": 80,
+      "FctNo": 36383,
+      "LiteratureCitation": {
+        "SourceNo": 2698
+      },
+      "RecNo": 404
+    },
+    {
+      "CommentNo": 36,
+      "FctNo": 49980,
+      "LiteratureCitation": {
+        "SourceNo": 28638
+      },
+      "RecNo": 405
+    },
+    {
+      "CommentNo": 4,
+      "FctNo": 46773,
+      "LiteratureCitation": {
+        "SourceNo": 25365
+      },
+      "RecNo": 406
+    },
+    {
+      "FctNo": 46729,
+      "GuidanceOptionNo": 1,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 407
+    },
+    {
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 408,
+      "RelationNo": 137
+    },
+    {
+      "CommentNo": 44,
+      "FctNo": 46735,
+      "LiteratureCitation": {
+        "SourceNo": 25289
+      },
+      "RecNo": 409
+    },
+    {
+      "FctNo": 36865,
+      "GuidanceOptionNo": 3,
+      "LiteratureCitation": {
+        "SourceNo": 2729
+      },
+      "RecNo": 410
+    },
+    {
+      "CommentNo": 27,
+      "FctNo": 36852,
+      "LiteratureCitation": {
+        "SourceNo": 2481
+      },
+      "RecNo": 411
+    },
+    {
+      "CommentNo": 100,
+      "FctNo": 36865,
+      "LiteratureCitation": {
+        "SourceNo": 2729
+      },
+      "RecNo": 412
+    },
+    {
+      "CommentNo": 84,
+      "FctNo": 36383,
+      "LiteratureCitation": {
+        "SourceNo": 2698
+      },
+      "RecNo": 413
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 414,
+      "RelationNo": 22
+    },
+    {
+      "FctNo": 48704,
+      "GuidanceOptionNo": 10,
+      "LiteratureCitation": {
+        "SourceNo": 27360
+      },
+      "RecNo": 416
+    },
+    {
+      "FctNo": 46734,
+      "GuidanceOptionNo": 10,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 417
+    },
+    {
+      "CommentNo": 50,
+      "FctNo": 48700,
+      "LiteratureCitation": {
+        "SourceNo": 27353
+      },
+      "RecNo": 418
+    },
+    {
+      "CommentNo": 61,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 419
+    },
+    {
+      "CommentNo": 52,
+      "FctNo": 49900,
+      "LiteratureCitation": {
+        "SourceNo": 28557
+      },
+      "RecNo": 421
+    },
+    {
+      "CommentNo": 52,
+      "FctNo": 49890,
+      "LiteratureCitation": {
+        "SourceNo": 28546
+      },
+      "RecNo": 422
+    },
+    {
+      "CommentNo": 53,
+      "FctNo": 49891,
+      "LiteratureCitation": {
+        "SourceNo": 28547
+      },
+      "RecNo": 423
+    },
+    {
+      "CommentNo": 6,
+      "FctNo": 49909,
+      "LiteratureCitation": {
+        "SourceNo": 28568
+      },
+      "RecNo": 424
+    },
+    {
+      "CommentNo": 100,
+      "FctNo": 34463,
+      "LiteratureCitation": {
+        "SourceNo": 5210
+      },
+      "RecNo": 426
+    },
+    {
+      "CommentNo": 59,
+      "FctNo": 44891,
+      "LiteratureCitation": {
+        "SourceNo": 23575
+      },
+      "RecNo": 427
+    },
+    {
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 428,
+      "RelationNo": 232
+    },
+    {
+      "CommentNo": 69,
+      "FctNo": 46729,
+      "LiteratureCitation": {
+        "SourceNo": 25283
+      },
+      "RecNo": 430
+    },
+    {
+      "CommentNo": 69,
+      "FctNo": 46734,
+      "LiteratureCitation": {
+        "SourceNo": 25288
+      },
+      "RecNo": 431
+    },
+    {
+      "CommentNo": 69,
+      "FctNo": 38143,
+      "LiteratureCitation": {
+        "SourceNo": 27861
+      },
+      "RecNo": 432
+    },
+    {
+      "CommentNo": 84,
+      "FctNo": 46836,
+      "LiteratureCitation": {
+        "SourceNo": 25434
+      },
+      "RecNo": 433
+    },
+    {
+      "CommentNo": 97,
+      "FctNo": 46867,
+      "LiteratureCitation": {
+        "SourceNo": 25465
+      },
+      "RecNo": 435
+    },
+    {
+      "CommentNo": 96,
+      "FctNo": 49982,
+      "LiteratureCitation": {
+        "SourceNo": 28640
+      },
+      "RecNo": 436
+    },
+    {
+      "CommentNo": 112,
+      "FctNo": 26379,
+      "LiteratureCitation": {
+        "SourceNo": 20686
+      },
+      "RecNo": 437
+    },
+    {
+      "CommentNo": 37,
+      "FctNo": 47813,
+      "LiteratureCitation": {
+        "SourceNo": 29516
+      },
+      "RecNo": 439
+    }
+  ],
+  "Relations": [
+    {
+      "FindingNo": 13,
+      "GuidanceOptionNo": 10,
+      "RecNo": 19,
+      "Type": 3
+    },
+    {
+      "FindingNo": 14,
+      "GuidanceOptionNo": 10,
+      "RecNo": 22,
+      "Type": 3
+    },
+    {
+      "FindingNo": 2,
+      "GuidanceOptionNo": 2,
+      "RecNo": 28,
+      "Type": 3
+    },
+    {
+      "FindingNo": 3,
+      "GuidanceOptionNo": 2,
+      "RecNo": 34,
+      "Type": 3
+    },
+    {
+      "FindingNo": 4,
+      "GuidanceOptionNo": 2,
+      "RecNo": 36,
+      "Type": 3
+    },
+    {
+      "FindingNo": 28,
+      "GuidanceOptionNo": 2,
+      "RecNo": 38,
+      "Type": 3
+    },
+    {
+      "FindingNo": 1,
+      "GuidanceOptionNo": 4,
+      "RecNo": 51,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 7,
+      "ProgramNo": 1,
+      "RecNo": 62,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 16,
+      "ProgramNo": 10,
+      "RecNo": 98,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 5,
+      "ProgramNo": 1,
+      "RecNo": 102,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 3,
+      "ProgramNo": 1,
+      "RecNo": 111,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 1,
+      "ProgramNo": 1,
+      "RecNo": 137,
+      "Type": 3
+    },
+    {
+      "FindingNo": 12,
+      "GuidanceOptionNo": 8,
+      "RecNo": 151,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 8,
+      "ProgramNo": 2,
+      "RecNo": 195,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 13,
+      "ProgramNo": 1,
+      "RecNo": 232,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 15,
+      "ProgramNo": 1,
+      "RecNo": 275,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 6,
+      "ProgramNo": 1,
+      "RecNo": 277,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 11,
+      "ProgramNo": 1,
+      "RecNo": 298,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 14,
+      "ProgramNo": 1,
+      "RecNo": 320,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 12,
+      "ProgramNo": 1,
+      "RecNo": 322,
+      "Type": 3
+    },
+    {
+      "GuidanceOptionNo": 9,
+      "ProgramNo": 1,
+      "RecNo": 360,
+      "Type": 3
+    }
+  ],
+  "Sequences": [
+    {
+      "QuestionBranch": 2,
+      "Text": "History"
+    }
+  ],
+  "Sources": [
+    {
+      "Author": "Krantz DS",
+      "Author2": "Thorn B, Kiecolt-Glaser J",
+      "Date": "2019",
+      "Medium": "fact sheet",
+      "RecNo": 25233,
+      "Source": "American Psychological Association ",
+      "SourceType": "WebURL",
+      "Title": "How stress affects your health",
+      "URL": "http://www.apa.org/helpcenter/stress.aspx"
+    },
+    {
+      "Author": "Ahmed SM",
+      "Author2": "Herschberger PJ, Lemkau JP",
+      "Date": "2016",
+      "Edition": "9E",
+      "Medium": "monograph online",
+      "RecNo": 25289,
+      "Source": "Textbook of Family Medicine: Ch 3",
+      "SourceType": "WebURL",
+      "Title": "Psychosocial Influences on Health",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "US Department of Health and Human Services",
+      "Date": "2019 Aug",
+      "Medium": "document",
+      "RecNo": 25288,
+      "Source": "Manage Stress",
+      "SourceType": "WebURL",
+      "URL": "https://healthfinder.gov/healthtopics/category/health-conditions-and-diseases/heart-health/manage-stress"
+    },
+    {
+      "Author": "Murray MT",
+      "Date": "2021",
+      "Edition": "5E",
+      "Medium": "monograph online",
+      "RecNo": 25283,
+      "Source": "Textbook of Natural Medicine: Ch 140",
+      "SourceType": "WebURL",
+      "Title": "Stress Management",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "Pignone M",
+      "Author2": "Salazar R",
+      "Date": "2018",
+      "Edition": "57E",
+      "Medium": "monograph online",
+      "RecNo": 27326,
+      "Source": "Current Medical Diagnosis & Treatment 2018: Ch 1",
+      "SourceType": "WebURL",
+      "Title": "Disease Prevention & Health Promotion",
+      "URL": "http://www.accessmedicine.com"
+    },
+    {
+      "Author": "American Heart Association",
+      "Date": "2014 Jun",
+      "Medium": "document",
+      "RecNo": 27310,
+      "Source": "To Stress or Not to Stress",
+      "SourceType": "WebURL",
+      "URL": "http://www.heart.org/HEARTORG/HealthyLiving/StressManagement/Stress-Management_UCM_001082_SubHomePage.jsp"
+    },
+    {
+      "Author": "U.S. Department of Health and Human Services",
+      "Author2": "Office of Disease Prevention & Health Promotion",
+      "Date": "2018",
+      "Medium": "document",
+      "RecNo": 2729,
+      "Source": "Physical Activity Guidelines for Americans: Ch 2",
+      "SourceType": "WebURL",
+      "Title": "Physical Activity and Health",
+      "URL": "https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf"
+    },
+    {
+      "Author": "Center for Disease Control and Prevention",
+      "Date": "2013 Jul 1",
+      "Medium": "document",
+      "RecNo": 25459,
+      "Source": "Sleep and Sleep Disorders",
+      "SourceType": "WebURL",
+      "Title": "What Should I Do If I Can't Sleep?",
+      "URL": "http://www.cdc.gov/sleep/about_sleep/cant_sleep.htm"
+    },
+    {
+      "Author": "American Psychological Association",
+      "Date": "2019",
+      "Medium": "document",
+      "RecNo": 25435,
+      "Source": "Stress and Sleep",
+      "SourceType": "WebURL",
+      "URL": "http://www.apa.org/news/press/releases/stress/2013/sleep.aspx"
+    },
+    {
+      "Author": "Sadock BJ",
+      "Author2": "Sadock VA, Ruiz P",
+      "Date": "2015",
+      "Edition": "11E",
+      "Medium": "monograph online",
+      "RecNo": 27861,
+      "Source": "Kaplan & Sadock's Synopsis of Psychiatry: Behavioral Sciences / Clinical Psychiatry: Ch 13",
+      "SourceType": "WebURL",
+      "Title": "Psychosomatic Medicine",
+      "URL": "http://online.statref.com"
+    },
+    {
+      "Author": "Perlman A",
+      "Date": "2020",
+      "Edition": "26E",
+      "Medium": "monograph online",
+      "RecNo": 27307,
+      "Source": "Goldman-Cecil Medicine: Ch 34",
+      "SourceType": "WebURL",
+      "Title": "Complementary and Alternative Medicine",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "National Institutes of Health",
+      "Author2": "National Center for Complementary and Integrative Health",
+      "Date": "2016 Jun 14",
+      "Medium": "document",
+      "RecNo": 25418,
+      "Source": "Relaxation Techniques for Health",
+      "SourceType": "WebURL",
+      "URL": "https://nccih.nih.gov/health/stress/relaxation.htm#hed2"
+    },
+    {
+      "Author": "U.S. Preventive Services Task Force",
+      "Date": "2014",
+      "Medium": "guideline document",
+      "RecNo": 23575,
+      "Source": "U.S. Preventive Services Task Force",
+      "SourceType": "WebURL",
+      "Title": "Screening and Behavioral Counseling Interventions in Primary Care to Reduce Alcohol Misuse",
+      "URL": "http://www.uspreventiveservicestaskforce.org/uspstf12/alcmisuse/alcmisusefinalrs.htm"
+    },
+    {
+      "Author": "Folan P",
+      "Author2": "Fardellone C, Tobacco Control Committee of the American Thoracic Society",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 27358,
+      "Source": "American Thoracic Society Series on Tobacco",
+      "SourceType": "WebURL",
+      "Title": "Smoking and Stress Management",
+      "URL": "https://www.thoracic.org/patients/patient-resources/resources/smoking-and-stress-management.pdf"
+    },
+    {
+      "Author": "American Psychological Association",
+      "Date": "2019",
+      "Medium": "document",
+      "RecNo": 25285,
+      "Source": "Stress in America 2019",
+      "SourceType": "WebURL",
+      "URL": "https://www.apa.org/news/press/releases/stress/2019/stress-america-2019.pdf "
+    },
+    {
+      "Author": "National Institute for Occupational Safety and Health",
+      "Author2": "Centers for Disease Control and Prevention",
+      "Date": "2014 Jun 6",
+      "Medium": "document",
+      "RecNo": 25397,
+      "Source": "Stress...At Work",
+      "SourceType": "WebURL",
+      "URL": "http://www.cdc.gov/niosh/docs/99-101/"
+    },
+    {
+      "Author": "American Psychological Association",
+      "Date": "2015",
+      "Medium": "document",
+      "RecNo": 25399,
+      "Source": "American Psychological Association",
+      "SourceType": "WebURL",
+      "Title": "Mind/body health: Job stress",
+      "URL": "http://www.apa.org/helpcenter/job-stress.aspx"
+    },
+    {
+      "Author": "Alvord M",
+      "Author2": "Uchino B, Wright V",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 27360,
+      "Source": "American Psychological Association: Stress Management",
+      "SourceType": "WebURL",
+      "Title": "How to strengthen your social support network",
+      "URL": "http://www.apa.org/helpcenter/emotional-support.aspx"
+    },
+    {
+      "Author": "Sharma M",
+      "Issue": "1",
+      "Journal": "J Evid Based Complementary Altern Med",
+      "Pages": "59-67",
+      "RecNo": 25365,
+      "SourceType": "Journal",
+      "Title": "Yoga as an alternative and complementary approach for stress management: a systematic review",
+      "Volume": "19",
+      "Year": "2014"
+    },
+    {
+      "Author": "National Center for Complementary and Integrative Health",
+      "Author2": "National Institutes of Health",
+      "Date": "2019 May",
+      "Medium": "document",
+      "RecNo": 3548,
+      "Source": "Yoga: In Depth",
+      "SourceType": "WebURL",
+      "URL": "http://nccam.nih.gov/health/yoga/introduction.htm"
+    },
+    {
+      "Author": "National Institutes of Health",
+      "Author2": "National Center for Complementary and Integrative Health",
+      "Date": "2016 Apr 12",
+      "Medium": "document",
+      "RecNo": 25403,
+      "Source": "Tai Chi and Qi Gong: In Depth",
+      "SourceType": "WebURL",
+      "URL": "https://nccih.nih.gov/health/taichi/introduction.htm"
+    },
+    {
+      "Author": "Wang C",
+      "Author2": "Bannuru R, Ramel J",
+      "Journal": "BMC Complement Altern Med",
+      "Pages": "23",
+      "RecNo": 27369,
+      "SourceType": "Journal",
+      "Title": "Tai Chi on psychological well-being: systematic review and meta-analysis",
+      "Volume": "10",
+      "Year": "2010"
+    },
+    {
+      "Author": "Minichiello VJ",
+      "Date": "2018",
+      "Edition": "4E",
+      "Medium": "monograph online",
+      "RecNo": 25404,
+      "Source": "Integrative Medicine: Ch 94",
+      "SourceType": "WebURL",
+      "Title": "Relaxation Techniques",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "Fortney L",
+      "Date": "2018",
+      "Edition": "4E",
+      "Medium": "monograph online",
+      "RecNo": 25387,
+      "Source": "Integrative Medicine: Ch 100",
+      "SourceType": "WebURL",
+      "Title": "Recommending Meditation",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "National Center for Complementary and Integrative Health",
+      "Author2": "National Institutes of Health",
+      "Date": "2017 Mar 17",
+      "Medium": "document",
+      "RecNo": 3550,
+      "Source": "Meditation: In Depth",
+      "SourceType": "WebURL",
+      "URL": "https://nccih.nih.gov/health/meditation/overview.htm"
+    },
+    {
+      "Author": "Pargament KI",
+      "Date": "2013 Mar 22",
+      "Medium": "document",
+      "RecNo": 27392,
+      "Source": "American Psychological Association",
+      "SourceType": "WebURL",
+      "Title": "What Role Do Religion and Spirituality Play in Mental Health?",
+      "URL": "http://www.apa.org/news/press/releases/2013/03/religion-spirituality.aspx"
+    },
+    {
+      "Author": "Pizzorno L",
+      "Date": "2013",
+      "Edition": "4E",
+      "Medium": "monograph online",
+      "RecNo": 25465,
+      "Source": "Textbook of Natural Medicine: Ch 48",
+      "SourceType": "WebURL",
+      "Title": "Spirituality and Healing",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "National Sleep Foundation",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 27348,
+      "Source": "Sleep and Stress",
+      "SourceType": "WebURL",
+      "URL": "https://sleep.org/articles/sleep-and-stress/"
+    },
+    {
+      "Author": "Vitlic A",
+      "Author2": "Lord JM, Phillips AC",
+      "Issue": "3",
+      "Journal": "Age (Dordr)",
+      "Pages": "9631",
+      "RecNo": 27324,
+      "SourceType": "Journal",
+      "Title": "Stress, ageing and their influence on functional, cellular and molecular aspects of the immune system",
+      "Volume": "36",
+      "Year": "2014"
+    },
+    {
+      "Author": "US Health and Human Services",
+      "Date": "2019",
+      "Medium": "fact sheet",
+      "RecNo": 28540,
+      "Source": "Womenshealth.gov",
+      "SourceType": "WebURL",
+      "Title": "Stress and your health",
+      "URL": "https://www.womenshealth.gov/mental-health/good-mental-health/stress-and-your-health"
+    },
+    {
+      "Author": "Igbokwe UL",
+      "Author2": "Onyechi KCN, Ogbonna CS",
+      "Issue": "40",
+      "Journal": "Medicine (Baltimore)",
+      "Pages": "e17452",
+      "RecNo": 28541,
+      "SourceType": "Journal",
+      "Title": "Rational emotive intervention for stress management among english education undergraduates: implications for school curriculum innovation",
+      "Volume": "98",
+      "Year": "2019"
+    },
+    {
+      "Author": "Janssen M",
+      "Author2": "Heerkens Y, Kuijer W",
+      "Issue": "1",
+      "Journal": "PLoS One",
+      "Pages": "e0191332",
+      "RecNo": 28568,
+      "SourceType": "Journal",
+      "Title": "Effects of Mindfulness-Based Stress reduction on employees' mental health: A systematic review",
+      "Volume": "13",
+      "Year": "2018"
+    },
+    {
+      "Author": "Harvard Medical School",
+      "Author2": "Harvard Health Publications",
+      "Date": "2012 Jan",
+      "Medium": "document",
+      "RecNo": 27325,
+      "Source": "How stress can make us overeat",
+      "SourceType": "WebURL",
+      "URL": "http://www.health.harvard.edu/healthbeat/how-stress-can-make-us-overeat"
+    },
+    {
+      "Author": "Harvard Medical School",
+      "Author2": "Harvard Health Publications",
+      "Date": "2018",
+      "Medium": "monograph online",
+      "RecNo": 28545,
+      "Source": "Why stress causes people to overeat",
+      "SourceType": "WebURL",
+      "URL": "https://www.health.harvard.edu/staying-healthy/why-stress-causes-people-to-overeat"
+    },
+    {
+      "Author": "Becker HC",
+      "Issue": "4",
+      "Journal": "Alcohol Res",
+      "Pages": "448-58",
+      "RecNo": 27338,
+      "SourceType": "Journal",
+      "Title": "Effects of alcohol dependence and withdrawal on stress responsiveness and alcohol consumption",
+      "Volume": "34",
+      "Year": "2012"
+    },
+    {
+      "Author": "D Nicol",
+      "Date": "2014 Apr 26",
+      "Medium": "document",
+      "RecNo": 27344,
+      "Source": "Glasgow Insight into Science &Technology",
+      "SourceType": "WebURL",
+      "Title": "Hitting the Bottle: Stress and Alcohol Craving",
+      "URL": "https://the-gist.org/2014/04/hitting-the-bottle-stress-and-alcohol-craving/"
+    },
+    {
+      "Author": "US Department of Health & Human Services",
+      "Author2": "US Department of Agriculture",
+      "Date": "2021 Jan",
+      "Medium": "guideline document",
+      "RecNo": 29516,
+      "Source": "2020-2025 Dietary Guidelines for Americans",
+      "SourceType": "WebURL",
+      "URL": "https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf"
+    },
+    {
+      "Author": "Lim S",
+      "Author2": "Han K, Cho H",
+      "Issue": "9-10",
+      "Journal": "J Clin Nurs",
+      "Pages": "1538-1545",
+      "RecNo": 28549,
+      "SourceType": "Journal",
+      "Title": "Shift-work nurses' work environments and health-promoting behaviours in relation to sleep disturbance: A cross-sectional secondary data analysis",
+      "Volume": "28",
+      "Year": "2019"
+    },
+    {
+      "Author": "National Institute of Neurological Disorders and Stroke",
+      "Date": "2017 Feb 24",
+      "Medium": "document",
+      "RecNo": 14427,
+      "Source": "Brain Basics: Understanding Sleep",
+      "SourceType": "WebURL",
+      "URL": "http://www.ninds.nih.gov/disorders/brain_basics/understanding_sleep.htm"
+    },
+    {
+      "Author": "Reite M",
+      "Author2": "Weissberg M",
+      "Edition": "E",
+      "Publisher": "American Psychiatric Association",
+      "RecNo": 1592,
+      "SourceType": "Book",
+      "Title": "Clinical Manual for Evaluation and Treatment of Sleep Disorders",
+      "Year": "2009"
+    },
+    {
+      "Author": "Irish LA",
+      "Author2": "Kline CE, Gunn HE",
+      "Journal": "Sleep Med Rev",
+      "Pages": "23-36",
+      "RecNo": 25648,
+      "SourceType": "Journal",
+      "Title": "The role of sleep hygiene in promoting public health: A review of empirical evidence",
+      "Volume": "22",
+      "Year": "2015"
+    },
+    {
+      "Author": "Anxiety and Depression Association of America",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 27347,
+      "Source": "Understand the Facts",
+      "SourceType": "WebURL",
+      "Title": "Stress and Anxiety Interfere With Sleep",
+      "URL": "https://www.adaa.org/understanding-anxiety/related-illnesses/other-related-conditions/stress/stress-and-anxiety-interfere"
+    },
+    {
+      "Author": "Webster NL",
+      "Author2": "Oyebode JR, Jenkins C",
+      "Journal": "J Adv Nurs",
+      "Pages": "14232",
+      "RecNo": 28637,
+      "SourceType": "Journal",
+      "Title": "Using technology to support the emotional and social well-being of nurses: A scoping review",
+      "Year": "2019"
+    },
+    {
+      "Author": "Stawarz K",
+      "Author2": "Preist C, Coyle D",
+      "Issue": "7",
+      "Journal": "JMIR Ment Health",
+      "Pages": "e12546",
+      "RecNo": 28636,
+      "SourceType": "Journal",
+      "Title": "Use of smartphone apps, social media, and web-based resources to support mental health and well-being: online survey",
+      "Volume": "6",
+      "Year": "2019"
+    },
+    {
+      "Author": "Ong JC",
+      "Author2": "Arnedt JT, Gehrman PR",
+      "Date": "2017",
+      "Edition": "6E",
+      "Medium": "monograph online",
+      "RecNo": 27811,
+      "Source": "Principles and Practice of Sleep Medicine: Ch 83",
+      "SourceType": "WebURL",
+      "Title": "Insomnia Diagnosis, Assessment, and Evaluation",
+      "URL": "http://www.clinicalkey.com"
+    },
+    {
+      "Author": "American Heart Association",
+      "Date": "2018 Apr 18",
+      "Medium": "fact sheet",
+      "RecNo": 28664,
+      "Source": "Breaking Down Barriers to Fitness",
+      "SourceType": "WebURL",
+      "URL": "https://www.heart.org/en/healthy-living/fitness/getting-active/breaking-down-barriers-to-fitness"
+    },
+    {
+      "Author": "U.S. Department of Health and Human Services",
+      "Author2": "Office of Disease Prevention & Health Promotion",
+      "Date": "2018",
+      "Edition": "2E",
+      "Medium": "document",
+      "RecNo": 2481,
+      "Source": "Physical Activity Guidelines for Americans: Ch 2",
+      "SourceType": "WebURL",
+      "Title": "Physical Activity and Health",
+      "URL": "https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf"
+    },
+    {
+      "Author": "National Institute of Mental Health",
+      "Date": "2010 May 13",
+      "Medium": "document",
+      "RecNo": 2705,
+      "Source": "Psychotherapies",
+      "SourceType": "WebURL",
+      "URL": "http://www.nimh.nih.gov/health/topics/psychotherapies/index.shtml"
+    },
+    {
+      "Author": "National Institute of Mental Health",
+      "Date": "2015",
+      "Medium": "document",
+      "RecNo": 2698,
+      "Source": "Help for Mental Illnesses",
+      "SourceType": "WebURL",
+      "URL": "http://www.nimh.nih.gov/health/topics/getting-help-locate-services/index.shtml"
+    },
+    {
+      "Author": "National Alliance on Mental Illness",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 25434,
+      "Source": "Choosing the Right Mental Health Professional",
+      "SourceType": "WebURL",
+      "URL": "http://namipamainline.org/choosing-the-right-mental-health-professional/"
+    },
+    {
+      "Author": "Stern A",
+      "Date": "2018",
+      "Medium": "monograph online",
+      "RecNo": 28638,
+      "Source": "Harvard Health Publishing, Harvard Medical School",
+      "SourceType": "WebURL",
+      "Title": "Choosing the right mental health provider",
+      "URL": "https://www.health.harvard.edu/blog/choosing-right-mental-health-provider-2018032313423"
+    },
+    {
+      "Author": "American Music Therapy Association",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 27357,
+      "Source": "What is Music Therapy",
+      "SourceType": "WebURL",
+      "URL": "http://www.musictherapy.org/about/musictherapy/"
+    },
+    {
+      "Author": "Frank DL",
+      "Author2": "Khorshid, Kiffer JF",
+      "Issue": "2",
+      "Journal": "Ment Health Fam Med",
+      "Pages": "85-91",
+      "RecNo": 25417,
+      "SourceType": "Journal",
+      "Title": "Biofeedback in medicine: who, when, why and how",
+      "Volume": "7",
+      "Year": "2010"
+    },
+    {
+      "Author": "Novotney A",
+      "Date": "2013 Nov",
+      "Medium": "document",
+      "RecNo": 27356,
+      "Source": "American Psychological Association: Science Watch",
+      "SourceType": "WebURL",
+      "Title": "Music as medicine",
+      "URL": "http://www.apa.org/monitor/2013/11/music.aspx"
+    },
+    {
+      "Author": "Kaplan NM",
+      "Author2": "Victor RG",
+      "Edition": "11E",
+      "Publisher": "Wolters Kluwer/Lippincott Williams & Wilkins",
+      "RecNo": 25450,
+      "SourceType": "Book",
+      "Title": "Kaplan's Clinical Hypertension",
+      "Year": "2015"
+    },
+    {
+      "Author": "Lemay V",
+      "Author2": "Hoolahan J, Buchanan A",
+      "Issue": "5",
+      "Journal": "Am J Pharm Educ",
+      "Pages": "7001",
+      "RecNo": 28560,
+      "SourceType": "Journal",
+      "Title": "Impact of a yoga and meditation intervention on students' stress and anxiety levels",
+      "Volume": "83",
+      "Year": "2019"
+    },
+    {
+      "Author": "Pascoe MC",
+      "Author2": "Bauer IE",
+      "Journal": "J Psychiatr Res",
+      "Pages": "270-82",
+      "RecNo": 27362,
+      "SourceType": "Journal",
+      "Title": "A systematic review of randomized controlled trials on the effects of yoga on stress measures and mood",
+      "Volume": "68",
+      "Year": "2015"
+    },
+    {
+      "Author": "Sutter Health",
+      "Date": "2016",
+      "Medium": "document",
+      "RecNo": 27353,
+      "Source": "Stress Management Techniques",
+      "SourceType": "WebURL",
+      "URL": "http://www.sutterhealth.org/eap/employees/resources/stress_management_techniques.html"
+    },
+    {
+      "Author": " Harvard Medical School",
+      "Author2": "Harvard Health Publishing",
+      "Date": "2019",
+      "Medium": "document",
+      "RecNo": 28544,
+      "Source": "Writing about emotions may ease stress and trauma",
+      "SourceType": "WebURL",
+      "URL": "https://www.health.harvard.edu/healthbeat/writing-about-emotions-may-ease-stress-and-trauma"
+    },
+    {
+      "Author": "Despr\u00e9aux T",
+      "Author2": "Saint-Lary O, Danzin F",
+      "Journal": "BMJ",
+      "Pages": "j2489",
+      "RecNo": 28557,
+      "SourceType": "Journal",
+      "Title": "Stress at work",
+      "Volume": "357",
+      "Year": "2017"
+    },
+    {
+      "Author": "LeBlanc L",
+      "Author2": "Marques L",
+      "Date": "2019",
+      "Medium": "monograph online",
+      "RecNo": 28546,
+      "Source": "How to handle stress at work",
+      "SourceType": "WebURL",
+      "URL": " https://www.health.harvard.edu/blog/how-to-handle-stress-at-work-2019041716436"
+    },
+    {
+      "Author": "American Psychological Association",
+      "Date": "2019",
+      "Medium": "monograph online",
+      "RecNo": 28547,
+      "Source": "Coping with stress at work",
+      "SourceType": "WebURL",
+      "URL": "https://www.apa.org/helpcenter/work-stress"
+    },
+    {
+      "Author": "American Psychological Association",
+      "Date": "2019",
+      "Medium": "monograph online",
+      "RecNo": 28550,
+      "Source": "Manage Stress: Strengthen your support network ",
+      "SourceType": "WebURL",
+      "URL": "https://www.apa.org/helpcenter/emotional-support"
+    },
+    {
+      "Author": "Rich P",
+      "Author2": "Gooderham M, Bachelez H",
+      "Issue": "1",
+      "Journal": "J Am Acad Dermatol",
+      "Pages": "134-42",
+      "RecNo": 26433,
+      "SourceType": "Journal",
+      "Title": "Apremilast, an oral phosphodiesterase 4 inhibitor, in patients with difficult-to-treat nail and scalp psoriasis: Results of 2 phase III randomized, controlled trials (ESTEEM 1 and ESTEEM 2)",
+      "Volume": "74",
+      "Year": "2016"
+    },
+    {
+      "Author": "U.S. Department of Health and Human Services",
+      "Author2": "Office of Disease Prevention & Health Promotion",
+      "Date": "2018",
+      "Medium": "document",
+      "RecNo": 2532,
+      "Source": "Physical Activity Guidelines for Americans: Ch 4",
+      "SourceType": "WebURL",
+      "Title": "Active Adults",
+      "URL": "https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf"
+    },
+    {
+      "Author": "Hajar R",
+      "Issue": "2",
+      "Journal": "Heart Views",
+      "Pages": "70-1",
+      "RecNo": 27361,
+      "SourceType": "Journal",
+      "Title": "Animal-assisted therapy",
+      "Volume": "16",
+      "Year": "2015"
+    },
+    {
+      "Author": "Ferri FF",
+      "Date": "2018",
+      "Medium": "monograph online",
+      "RecNo": 27386,
+      "Source": "Ferri's Clinical Advisor 2018",
+      "SourceType": "WebURL",
+      "Title": "Relaxation Techniques",
+      "URL": "www.clinicalkey.com"
+    },
+    {
+      "Author": "Harvard Health Publishing",
+      "Date": "2019",
+      "Medium": "monograph online",
+      "RecNo": 28556,
+      "Source": "The health benefits of tai chi",
+      "SourceType": "WebURL",
+      "URL": "https://www.health.harvard.edu/staying-healthy/the-health-benefits-of-tai-chi"
+    },
+    {
+      "Author": "Irie T",
+      "Author2": "Yokomitsu K, Sakano Y",
+      "Issue": "9",
+      "Journal": "PLoS One",
+      "Pages": "e0223310",
+      "RecNo": 28570,
+      "SourceType": "Journal",
+      "Title": "Relationship between cognitive behavioral variables and mental health status among university students: A meta-analysis",
+      "Volume": "14",
+      "Year": "2019"
+    },
+    {
+      "Author": "Sorrell JM",
+      "Issue": "5",
+      "Journal": "J Psychosoc Nurs Ment Health Serv",
+      "Pages": "15-9",
+      "RecNo": 25385,
+      "SourceType": "Journal",
+      "Title": "Meditation for older adults: a new look at an ancient intervention for mental health",
+      "Volume": "53",
+      "Year": "2015"
+    },
+    {
+      "Author": "Young S",
+      "Date": "2010",
+      "Medium": "document",
+      "RecNo": 27387,
+      "Source": "Mantra Practice vs Mindfulness",
+      "SourceType": "WebURL",
+      "URL": "www.shinzen.org"
+    },
+    {
+      "Author": "Feldman MD",
+      "Author2": "Christensen JF, Satterfield JM",
+      "Edition": "5thE",
+      "Publisher": "McGraw-Hill",
+      "RecNo": 28552,
+      "SourceType": "Book",
+      "Title": "Behavioral Medicine: A Guide for Clinical Practice ",
+      "Year": "2020"
+    },
+    {
+      "Author": "Black DS",
+      "Author2": "O'Reilly GA, Olmstead R",
+      "Issue": "4",
+      "Journal": "JAMA Intern Med",
+      "Pages": "494-501",
+      "RecNo": 25396,
+      "SourceType": "Journal",
+      "Title": "Mindfulness meditation and improvement in sleep quality and daytime impairment among older adults with sleep disturbances: a randomized clinical trial",
+      "Volume": "175",
+      "Year": "2015"
+    },
+    {
+      "Author": "American Heart Association",
+      "Date": "2015 Nov 11",
+      "Medium": "document",
+      "RecNo": 27388,
+      "Source": "Meditation and Heart Health",
+      "SourceType": "WebURL",
+      "URL": "http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Meditation-and-Heart-Disease-Stroke_UCM_452930_Article.jsp#.V8b76k36umt"
+    },
+    {
+      "Date": "2019",
+      "Medium": "monograph online",
+      "RecNo": 28641,
+      "Source": "Harvard Health Publishing, Harvard Medical School",
+      "SourceType": "WebURL",
+      "Title": "Meditation: There's an app for that",
+      "URL": "https://www.health.harvard.edu/mind-and-mood/meditation-theres-an-app-for-that "
+    },
+    {
+      "Author": "University of Maryland Medical Center",
+      "Date": "2015 Nov 6",
+      "Medium": "document",
+      "RecNo": 27393,
+      "Source": "Spirituality",
+      "SourceType": "WebURL",
+      "URL": "http://umm.edu/health/medical/altmed/treatment/spirituality"
+    },
+    {
+      "Author": "University of Georgia",
+      "Author2": "University Health Center",
+      "Date": "2017",
+      "Medium": "document",
+      "RecNo": 25466,
+      "Source": "Managing Stress: A Guide for College Students",
+      "SourceType": "WebURL",
+      "Title": "Spirituality",
+      "URL": "http://www.uhs.uga.edu/stress/spirituality"
+    },
+    {
+      "Author": "Vimeo",
+      "Author2": "Inc",
+      "Date": "2019",
+      "Medium": "monograph online",
+      "RecNo": 28640,
+      "Source": "Sharecare Windows",
+      "SourceType": "WebURL",
+      "URL": "Accessed at: https://vimeo.com/channels/scwindowscomfort"
+    },
+    {
+      "Author": "Kidwai R",
+      "Author2": "Mancha BE, Brown QL",
+      "Issue": "3",
+      "Journal": "Soc Psychiatry Psychiatr Epidemiol",
+      "Pages": "487-97",
+      "RecNo": 25467,
+      "SourceType": "Journal",
+      "Title": "The effect of spirituality and religious attendance on the relationship between psychological distress and negative life events",
+      "Volume": "49",
+      "Year": "2014"
+    },
+    {
+      "Author": "Sakellari E",
+      "Author2": "Psychogiou M, Georgiou A",
+      "Issue": "1",
+      "Journal": "J Relig Health",
+      "Pages": "136-145",
+      "RecNo": 28554,
+      "SourceType": "Journal",
+      "Title": "Exploring religiosity, self-esteem, stress, and depression among students of a Cypriot university",
+      "Volume": "57",
+      "Year": "2018"
+    },
+    {
+      "Author": "Shattuck EC",
+      "Author2": "Muehlenbein MP",
+      "Journal": "J Relig Health",
+      "Pages": "1-20",
+      "RecNo": 28555,
+      "SourceType": "Journal",
+      "Title": "Religiosity/spirituality and physiological markers of health",
+      "Year": "2018"
+    },
+    {
+      "Author": "Koenig HG",
+      "Issue": "5",
+      "Journal": "Can J Psychiatry",
+      "Pages": "283-91",
+      "RecNo": 15952,
+      "SourceType": "Journal",
+      "Title": "Research on religion, spirituality, and mental health: A review",
+      "Volume": "54",
+      "Year": "2009"
+    },
+    {
+      "Author": "American Heart Association",
+      "Date": "2017",
+      "Medium": "monograph online",
+      "RecNo": 28548,
+      "Source": "Working out to relieve stress",
+      "SourceType": "WebURL",
+      "URL": "https://www.heart.org/en/healthy-living/healthy-lifestyle/stress-management/working-out-to-relieve-stress"
+    },
+    {
+      "Author": "Centers for Disease Control and Prevention",
+      "Author2": "Division of Nutrition and Physical Activity, National Center for Chronic Disease Prevention and Health Promotion",
+      "Date": "2020 May 8",
+      "Medium": "document",
+      "RecNo": 5210,
+      "Source": "Physical Activity and Health",
+      "SourceType": "WebURL",
+      "Title": "The Benefits of Physical Activity",
+      "URL": "http://www.cdc.gov/nccdphp/dnpa/physical/everyone/health/index.htm"
+    },
+    {
+      "Author": "U.S. Department of Health & Human Services",
+      "Author2": "Office of Disease Prevention & Health Promotion",
+      "Date": "2018",
+      "Edition": "2E",
+      "Medium": "document",
+      "RecNo": 2033,
+      "Source": "Physical Activity Guidelines for Americans: Ch 6",
+      "SourceType": "WebURL",
+      "Title": "Additional Considerations for Some Adults",
+      "URL": "https://health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf"
+    },
+    {
+      "Author": "National Institute on Aging",
+      "Date": "2015 Oct",
+      "Medium": "monograph online",
+      "RecNo": 20686,
+      "Source": "NIH Senior Health",
+      "SourceType": "WebURL",
+      "Title": "Exercise: How to Get Started: Safety First",
+      "URL": "http://nihseniorhealth.gov/exerciseandphysicalactivityhowtogetstarted/safetyfirst/01.html"
+    }
+  ]
+}

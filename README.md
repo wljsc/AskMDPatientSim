@@ -1,2 +1,2 @@
-# AskMDPatientSim
-Testing system for AskMD Backend
+# AskMDPatientSimulator
+Testing system for AskMD
